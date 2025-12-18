@@ -1,0 +1,99 @@
+%\font\twelverm=cmr12
+%\font\twelveit=cmti12
+%\font\twelvesl=cmsl12
+%\font\twelvess=cmss12
+%\font\twelvett=cmtt12
+%\font\tentt=cmtt12
+
+
+%\pdfpagewidth 148mm
+%\pdfpageheight 210mm
+
+\font\palaosf="Palatino Linotype:+onum" at 10pt
+
+\font\twelvebf=pncb at 10pt% NewCenturySchlbk-Bold
+\font\twelvebi=pncbi at 10pt% NewCenturySchlbk-BoldItalic
+\font\twelveit=pncri at 10pt% NewCenturySchlbk-Italic
+\font\twelverm=pncr at 10pt% NewCenturySchlbk-Roman
+
+\font\twelvebf=ptmb at 10pt% Times-Bold
+\font\twelvebi=ptmbi at 10pt% Times-BoldItalic
+\font\twelveit=ptmri at 10pt% Times-Italic
+\font\twelverm=ptmr at 10pt% Times-Roman
+
+\font\seventeenss=cmss17
+\font\twelvebf=cmbx12
+
+\font\twelverm=cmr10
+\font\twelveit=cmti10
+\font\twelvesl=cmsl10
+\font\twelvess=cmss10
+\font\twelvett=cmtt10
+\font\tentt=cmtt10
+\font\seventeenss=cmss17
+\font\twelvebf=cmbx10
+
+\tolerance 1414
+\hbadness 1414
+\hyphenpenalty 500
+\finalhyphendemerits 7500
+\emergencystretch 5pt
+\hfuzz 0.3pt
+\vfuzz=\hfuzz
+
+% for hyphenation profiles and European languages
+{\catcode`@=11
+\gdef\eplainsetlanguage#1#2#3{%
+% do not set the language if the name is undefined in the current TeX.
+\expandafter\ifx\csname lang@#1\endcsname \relax
+\message{no patterns for #1}%
+\else
+\global\language = \csname lang@#1\endcsname
+\fi
+
+% but there is no harm in adjusting the hyphenmin values regardless.
+\global\lefthyphenmin = #2\relax
+\global\righthyphenmin = #3\relax
+}}%
+
+\def\ukenglish{\eplainsetlanguage{ukenglish}{2}{3}}
+
+\uselanguage{ukenglish}
+
+\twelverm
+%\palaosf
+
+%\openup 2pt
+\parskip 0pt
+%\hsize 11cm
+%\vsize 17cm
+
+\pdfpagewidth 129mm
+\pdfpageheight 198mm
+
+\hsize 99mm
+\vsize 161mm
+
+\voffset -9.4mm
+\output{\ifodd\pageno\hoffset -11.4mm\else\hoffset -9.4mm\fi
+\plainoutput}
+
+\begingroup
+  \nopagenumbers
+  \input 11SSAL_front_matter.tex
+\endgroup
+
+\pageno = 1
+
+\input 11SSAL_chapter1.tex
+\input 11SSAL_chapter2.tex
+\input 11SSAL_chapter3.tex
+\input 11SSAL_chapter4.tex
+\input 11SSAL_chapter5.tex
+\input 11SSAL_chapter6.tex
+\input 11SSAL_chapter7.tex
+\input 11SSAL_chapter8.tex
+\input 11SSAL_chapter9.tex
+\input 11SSAL_chapter10.tex
+\input 11SSAL_chapter11.tex
+\bye 

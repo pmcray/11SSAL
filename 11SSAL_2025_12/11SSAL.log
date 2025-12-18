@@ -1,0 +1,9140 @@
+This is LuaHBTeX, Version 1.22.0 (TeX Live 2025)  (format=optex 2025.12.3)  4 DEC 2025 13:18
+ restricted system commands enabled.
+**11SSAL.tex
+(./11SSAL.tex This is OpTeX (Olsak's Plain TeX), version <1.18 May 2025>
+(/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-termes.opm
+luaotfload | conf : Root cache directory is "/home/pmc/.texlive2025/texmf-var/lu
+atex-cache/generic/names".
+luaotfload | init : Loading fontloader "fontloader-2023-12-28.lua" from kpse-res
+olved path "/usr/local/texlive/2025/texmf-dist/tex/luatex/luaotfload/fontloader-
+2023-12-28.lua".
+"luaotfload@noligature"=\attribute3
+luaotfload | init : Context OpenType loader version 3.134
+"luaotfload_color_attribute"=\attribute4
+luaotfload | conf : Root cache directory is "/home/pmc/.texlive2025/texmf-var/lu
+atex-cache/generic/names".
+"luaotfload.letterspace_done"=\attribute5
+luaotfload | db : Font names database loaded from /home/pmc/.texlive2025/texmf-v
+ar/luatex-cache/generic/names/luaotfload-names.luc.gz
+FONT: [Termes] -- \Termes (TeX Gyre Termes fonts based on Times)
+ mods:{\caps } vars:{\rm \bf \it \bi } math:{Termes}
+Modifier:
+ \caps ...... caps & small caps
+ 
+MATH-FONT: "[texgyretermes-math]" -- unicode math prepared.
+(/usr/local/texlive/2025/texmf-dist/tex/optex/base/unimath-codes.opm
+@:[unimath-codes] Uni math codes <2025-02-09>
+\_umathnumA=\count298
+\_umathnumB=\count299
+
+(/usr/local/texlive/2025/texmf-dist/tex/optex/base/mathclass.opm)
+(/usr/local/texlive/2025/texmf-dist/tex/optex/base/unimath-table.opm)))
+Loading hyphenation for UKenglish: \language=2 (en-gb)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-en-
+gb.tex) (./11SSAL_front_matter.tex [1{/usr/local/texlive/2025/texmf-var/fonts/ma
+p/pdftex/updmap/pdftex.map}] [2]
+(/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-heros.opm
+FONT: [Heros] -- \Heros (TeX Gyre Heros fonts based on Helvetica)
+ mods:{\caps \cond } vars:{\rm \bf \it \bi } math:{FiraMath}
+Modifiers:
+ \caps ...... caps & small caps
+ \cond ...... condensed variants
+ 
+) [3] [4] (/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-heros.opm
+FONT: [Heros] -- \Heros (TeX Gyre Heros fonts based on Helvetica)
+ mods:{\caps \cond } vars:{\rm \bf \it \bi } math:{FiraMath}
+Modifiers:
+ \caps ...... caps & small caps
+ \cond ...... condensed variants
+ 
+) (/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-heros.opm
+FONT: [Heros] -- \Heros (TeX Gyre Heros fonts based on Helvetica)
+ mods:{\caps \cond } vars:{\rm \bf \it \bi } math:{FiraMath}
+Modifiers:
+ \caps ...... caps & small caps
+ \cond ...... condensed variants
+ 
+) [5] [6] [7] [8]) (./11SSAL_chapter1.tex
+(/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-cursor.opm
+FONT: [Cursor] -- \Cursor (TeX Gyre Cursor fonts based on Courier)
+ mods:{\caps } vars:{\rm \bf \it \bi } math:{}
+Modifier:
+ \caps ...... caps & small caps
+ 
+) (/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-cursor.opm
+FONT: [Cursor] -- \Cursor (TeX Gyre Cursor fonts based on Courier)
+ mods:{\caps } vars:{\rm \bf \it \bi } math:{}
+Modifier:
+ \caps ...... caps & small caps
+ 
+) [1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16]
+(/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-heros.opm
+FONT: [Heros] -- \Heros (TeX Gyre Heros fonts based on Helvetica)
+ mods:{\caps \cond } vars:{\rm \bf \it \bi } math:{FiraMath}
+Modifiers:
+ \caps ...... caps & small caps
+ \cond ...... condensed variants
+ 
+) [17]) (./11SSAL_chapter2.tex
+(/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-heros.opm
+FONT: [Heros] -- \Heros (TeX Gyre Heros fonts based on Helvetica)
+ mods:{\caps \cond } vars:{\rm \bf \it \bi } math:{FiraMath}
+Modifiers:
+ \caps ...... caps & small caps
+ \cond ...... condensed variants
+ 
+) (/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-heros.opm
+FONT: [Heros] -- \Heros (TeX Gyre Heros fonts based on Helvetica)
+ mods:{\caps \cond } vars:{\rm \bf \it \bi } math:{FiraMath}
+Modifiers:
+ \caps ...... caps & small caps
+ \cond ...... condensed variants
+ 
+) [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28]
+(/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-cursor.opm
+FONT: [Cursor] -- \Cursor (TeX Gyre Cursor fonts based on Courier)
+ mods:{\caps } vars:{\rm \bf \it \bi } math:{}
+Modifier:
+ \caps ...... caps & small caps
+ 
+)
+Underfull \hbox (badness 10000) in paragraph at lines 509--510
+[]\_tenrm Alex ”massive mul-ti-player on-line role play-
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm A
+.\_tenrm l
+.\_tenrm e
+.\_tenrm x
+.\glue(\spaceskip) 6.0
+.\_tenrm ”
+.\_tenrm m
+.\_tenrm a
+.\_tenrm s
+.\_tenrm s
+.\_tenrm i
+.\_tenrm v
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm u
+.\_tenrm l
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm t
+.\_tenrm i
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm p
+.\_tenrm l
+.\_tenrm a
+.\_tenrm y
+.\_tenrm e
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm n
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm l
+.\_tenrm i
+.\_tenrm n
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm r
+.\_tenrm o
+.\_tenrm l
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm p
+.\_tenrm l
+.\_tenrm a
+.\_tenrm y
+.\_tenrm -
+.\discretionary (penalty 50)
+.\glue(\rightskip) 0.0
+
+[29] (/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-cursor.opm
+FONT: [Cursor] -- \Cursor (TeX Gyre Cursor fonts based on Courier)
+ mods:{\caps } vars:{\rm \bf \it \bi } math:{}
+Modifier:
+ \caps ...... caps & small caps
+ 
+)
+Overfull \hbox (24.3177pt too wide) in paragraph at lines 543--543
+[]\_tenrm Zoe here from the De-jeuner a Deux date at Bumbles |
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm Z
+.\_tenrm o
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm h
+.\_tenrm e
+.\_tenrm r
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm r
+.\_tenrm o
+.\_tenrm m
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm D
+.\_tenrm e
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm j
+.\_tenrm e
+.\_tenrm u
+.\_tenrm n
+.\_tenrm e
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\glue(\spaceskip) 6.0
+.\_tenrm D
+.\_tenrm e
+.\_tenrm u
+.\_tenrm x
+.\glue(\spaceskip) 6.0
+.\_tenrm d
+.\_tenrm a
+.\_tenrm t
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm B
+.\_tenrm u
+.\_tenrm m
+.\_tenrm b
+.\_tenrm l
+.\_tenrm e
+.\_tenrm s
+.\penalty 10000
+.\glue(\parfillskip) 0.0 plus 1.0fil
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 544--544
+[]\_tenrm or rather the Pun-jab. Thanks for sug-gest-ing
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm o
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm r
+.\_tenrm a
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm P
+.\_tenrm u
+.\_tenrm n
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm j
+.\_tenrm a
+.\_tenrm b
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm T
+.\_tenrm h
+.\_tenrm a
+.\_tenrm n
+.\_tenrm k
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm o
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm u
+.\_tenrm g
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm g
+.\_tenrm e
+.\_tenrm s
+.\_tenrm t
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm n
+.\_tenrm g
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (6.3177pt too wide) in paragraph at lines 546--546
+[]\_tenrm last night. Sorry for any con-fu-sion at the end |
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm l
+.\_tenrm a
+.\_tenrm s
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm n
+.\_tenrm i
+.\_tenrm g
+.\_tenrm h
+.\_tenrm t
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm S
+.\_tenrm o
+.\_tenrm r
+.\_tenrm r
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm o
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm n
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm c
+.\_tenrm o
+.\_tenrm n
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm f
+.\_tenrm u
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm s
+.\_tenrm i
+.\_tenrm o
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm e
+.\_tenrm n
+.\_tenrm d
+.\penalty 10000
+.\glue(\parfillskip) 0.0 plus 1.0fil
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+(/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-heros.opm
+FONT: [Heros] -- \Heros (TeX Gyre Heros fonts based on Helvetica)
+ mods:{\caps \cond } vars:{\rm \bf \it \bi } math:{FiraMath}
+Modifiers:
+ \caps ...... caps & small caps
+ \cond ...... condensed variants
+ 
+) [30] [31] [32] [33] [34] [35] [36] [37] [38]) (./11SSAL_chapter3.tex
+(/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-heros.opm
+FONT: [Heros] -- \Heros (TeX Gyre Heros fonts based on Helvetica)
+ mods:{\caps \cond } vars:{\rm \bf \it \bi } math:{FiraMath}
+Modifiers:
+ \caps ...... caps & small caps
+ \cond ...... condensed variants
+ 
+) (/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-heros.opm
+FONT: [Heros] -- \Heros (TeX Gyre Heros fonts based on Helvetica)
+ mods:{\caps \cond } vars:{\rm \bf \it \bi } math:{FiraMath}
+Modifiers:
+ \caps ...... caps & small caps
+ \cond ...... condensed variants
+ 
+) [39] [40] [41] [42] [43] [44] [45] [46] [47] [48] [49]
+(/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-cursor.opm
+FONT: [Cursor] -- \Cursor (TeX Gyre Cursor fonts based on Courier)
+ mods:{\caps } vars:{\rm \bf \it \bi } math:{}
+Modifier:
+ \caps ...... caps & small caps
+ 
+)
+Underfull \hbox (badness 10000) in paragraph at lines 577--583
+[]\_tenrm the venue wasn’t quite the Res-taur-ant at the
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm v
+.\_tenrm e
+.\_tenrm n
+.\_tenrm u
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm w
+.\_tenrm a
+.\_tenrm s
+.\_tenrm n
+.\_tenrm ’
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm q
+.\_tenrm u
+.\_tenrm i
+.\_tenrm t
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm R
+.\_tenrm e
+.\_tenrm s
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm t
+.\_tenrm a
+.\_tenrm u
+.\_tenrm r
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm a
+.\_tenrm n
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (0.3177pt too wide) in paragraph at lines 577--583
+\_tenrm End of The Uni-verse last night, which was prob-|
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm E
+.\_tenrm n
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm f
+.\glue(\spaceskip) 6.0
+.\_tenrm T
+.\_tenrm h
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm U
+.\_tenrm n
+.\_tenrm i
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm v
+.\_tenrm e
+.\_tenrm r
+.\_tenrm s
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm l
+.\_tenrm a
+.\_tenrm s
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm n
+.\_tenrm i
+.\_tenrm g
+.\_tenrm h
+.\_tenrm t
+.\_tenrm ,
+.\glue(\spaceskip) 6.0
+.\_tenrm w
+.\_tenrm h
+.\_tenrm i
+.\_tenrm c
+.\_tenrm h
+.\glue(\spaceskip) 6.0
+.\_tenrm w
+.\_tenrm a
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm p
+.\_tenrm r
+.\_tenrm o
+.\_tenrm b
+.\_tenrm -
+.\discretionary (penalty 50)
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Overfull \hbox (6.3177pt too wide) in paragraph at lines 577--583
+\_tenrm ably not a bad thing has the uni-verse would pre-|
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm a
+.\_tenrm b
+.\_tenrm l
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm n
+.\_tenrm o
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\glue(\spaceskip) 6.0
+.\_tenrm b
+.\_tenrm a
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm i
+.\_tenrm n
+.\_tenrm g
+.\glue(\spaceskip) 6.0
+.\_tenrm h
+.\_tenrm a
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm u
+.\_tenrm n
+.\_tenrm i
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm v
+.\_tenrm e
+.\_tenrm r
+.\_tenrm s
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm w
+.\_tenrm o
+.\_tenrm u
+.\_tenrm l
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm p
+.\_tenrm r
+.\_tenrm e
+.\_tenrm -
+.\discretionary (penalty 50)
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Overfull \hbox (18.3177pt too wide) in paragraph at lines 577--583
+\_tenrm sum-ably have ended by this morn-ing if it had been.|
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm s
+.\_tenrm u
+.\_tenrm m
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm a
+.\_tenrm b
+.\_tenrm l
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm h
+.\_tenrm a
+.\_tenrm v
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm e
+.\_tenrm n
+.\_tenrm d
+.\_tenrm e
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm b
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm i
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm o
+.\_tenrm r
+.\_tenrm n
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm n
+.\_tenrm g
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm f
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm h
+.\_tenrm a
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm b
+.\_tenrm e
+.\_tenrm e
+.\_tenrm n
+.\_tenrm .
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Overfull \hbox (0.3177pt too wide) in paragraph at lines 577--583
+\_tenrm At least, these Singles Salon events are mostly|
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm A
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm l
+.\_tenrm e
+.\_tenrm a
+.\_tenrm s
+.\_tenrm t
+.\_tenrm ,
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\_tenrm s
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm S
+.\_tenrm i
+.\_tenrm n
+.\_tenrm g
+.\_tenrm l
+.\_tenrm e
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm S
+.\_tenrm a
+.\_tenrm l
+.\_tenrm o
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm e
+.\_tenrm v
+.\_tenrm e
+.\_tenrm n
+.\_tenrm t
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm r
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm o
+.\_tenrm s
+.\_tenrm t
+.\_tenrm l
+.\_tenrm y
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Overfull \hbox (6.3177pt too wide) in paragraph at lines 577--583
+\_tenrm harm-less. Any-way, it was great to meet you. Hope|
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm h
+.\_tenrm a
+.\_tenrm r
+.\_tenrm m
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm l
+.\_tenrm e
+.\_tenrm s
+.\_tenrm s
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm A
+.\_tenrm n
+.\_tenrm y
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm w
+.\_tenrm a
+.\_tenrm y
+.\_tenrm ,
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm w
+.\_tenrm a
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm g
+.\_tenrm r
+.\_tenrm e
+.\_tenrm a
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm e
+.\_tenrm e
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm y
+.\_tenrm o
+.\_tenrm u
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm H
+.\_tenrm o
+.\_tenrm p
+.\_tenrm e
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Overfull \hbox (0.3177pt too wide) in paragraph at lines 577--583
+\_tenrm you’ve a fun week-end planned and that you don’t|
+
+\hbox(6.04+1.86)x281.6823, direction TLT
+.\_tenrm y
+.\_tenrm o
+.\_tenrm u
+.\_tenrm ’
+.\_tenrm v
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm u
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm w
+.\_tenrm e
+.\_tenrm e
+.\_tenrm k
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm e
+.\_tenrm n
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm p
+.\_tenrm l
+.\_tenrm a
+.\_tenrm n
+.\_tenrm n
+.\_tenrm e
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm n
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm a
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm y
+.\_tenrm o
+.\_tenrm u
+.\glue(\spaceskip) 6.0
+.\_tenrm d
+.\_tenrm o
+.\_tenrm n
+.\_tenrm ’
+.\_tenrm t
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+[50] [51] (/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-cursor.opm
+FONT: [Cursor] -- \Cursor (TeX Gyre Cursor fonts based on Courier)
+ mods:{\caps } vars:{\rm \bf \it \bi } math:{}
+Modifier:
+ \caps ...... caps & small caps
+ 
+)
+Underfull \hbox (badness 10000) in paragraph at lines 635--638
+[]\_tenrm good to meet you the other night. The thing
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm g
+.\_tenrm o
+.\_tenrm o
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm e
+.\_tenrm e
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm y
+.\_tenrm o
+.\_tenrm u
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm n
+.\_tenrm i
+.\_tenrm g
+.\_tenrm h
+.\_tenrm t
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm T
+.\_tenrm h
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm i
+.\_tenrm n
+.\_tenrm g
+.\glue(\rightskip) 0.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 635--638
+\_tenrm is that I am sort of kind of see-ing someone at
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm i
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm a
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm m
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm o
+.\_tenrm r
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm f
+.\glue(\spaceskip) 6.0
+.\_tenrm k
+.\_tenrm i
+.\_tenrm n
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm f
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm e
+.\_tenrm e
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm n
+.\_tenrm g
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm o
+.\_tenrm m
+.\_tenrm e
+.\_tenrm o
+.\_tenrm n
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm t
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (0.3177pt too wide) in paragraph at lines 635--638
+\_tenrm the mo-ment, so I’m not look-ing really for dates|
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm o
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm m
+.\_tenrm e
+.\_tenrm n
+.\_tenrm t
+.\_tenrm ,
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\_tenrm ’
+.\_tenrm m
+.\glue(\spaceskip) 6.0
+.\_tenrm n
+.\_tenrm o
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm l
+.\_tenrm o
+.\_tenrm o
+.\_tenrm k
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm n
+.\_tenrm g
+.\glue(\spaceskip) 6.0
+.\_tenrm r
+.\_tenrm e
+.\_tenrm a
+.\_tenrm l
+.\_tenrm l
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm o
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm d
+.\_tenrm a
+.\_tenrm t
+.\_tenrm e
+.\_tenrm s
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+[52] (/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-cursor.opm
+FONT: [Cursor] -- \Cursor (TeX Gyre Cursor fonts based on Courier)
+ mods:{\caps } vars:{\rm \bf \it \bi } math:{}
+Modifier:
+ \caps ...... caps & small caps
+ 
+) [53]
+Underfull \hbox (badness 10000) in paragraph at lines 719--725
+[]\_tenrm I sent it in er-ror. I real-ised as soon as I
+
+\hbox(6.1+0.16)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm I
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm e
+.\_tenrm n
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm e
+.\_tenrm r
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm r
+.\_tenrm o
+.\_tenrm r
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\glue(\spaceskip) 6.0
+.\_tenrm r
+.\_tenrm e
+.\_tenrm a
+.\_tenrm l
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm s
+.\_tenrm e
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm o
+.\_tenrm o
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\glue(\rightskip) 0.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 719--725
+\_tenrm sent it that I had sent you the wrong mes-sage,
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm s
+.\_tenrm e
+.\_tenrm n
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm a
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\glue(\spaceskip) 6.0
+.\_tenrm h
+.\_tenrm a
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm e
+.\_tenrm n
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm y
+.\_tenrm o
+.\_tenrm u
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm w
+.\_tenrm r
+.\_tenrm o
+.\_tenrm n
+.\_tenrm g
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm e
+.\_tenrm s
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm s
+.\_tenrm a
+.\_tenrm g
+.\_tenrm e
+.\_tenrm ,
+.\glue(\rightskip) 0.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 719--725
+\_tenrm so I’m spend-ing this mes-sage in the hope that
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm s
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\_tenrm ’
+.\_tenrm m
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm p
+.\_tenrm e
+.\_tenrm n
+.\_tenrm d
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm n
+.\_tenrm g
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm i
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm e
+.\_tenrm s
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm s
+.\_tenrm a
+.\_tenrm g
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm h
+.\_tenrm o
+.\_tenrm p
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm a
+.\_tenrm t
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (0.3177pt too wide) in paragraph at lines 719--725
+\_tenrm you read it first and don’t feel *too* in-sul-ted.|
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm y
+.\_tenrm o
+.\_tenrm u
+.\glue(\spaceskip) 6.0
+.\_tenrm r
+.\_tenrm e
+.\_tenrm a
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm ﬁ
+.\_tenrm r
+.\_tenrm s
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm n
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm d
+.\_tenrm o
+.\_tenrm n
+.\_tenrm ’
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm e
+.\_tenrm e
+.\_tenrm l
+.\glue(\spaceskip) 6.0
+.\_tenrm *
+.\_tenrm t
+.\_tenrm o
+.\_tenrm o
+.\_tenrm *
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm n
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm s
+.\_tenrm u
+.\_tenrm l
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm t
+.\_tenrm e
+.\_tenrm d
+.\_tenrm .
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 719--725
+\_tenrm I con-fused you with Alistair - or rather I got
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm I
+.\glue(\spaceskip) 6.0
+.\_tenrm c
+.\_tenrm o
+.\_tenrm n
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm f
+.\_tenrm u
+.\_tenrm s
+.\_tenrm e
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm y
+.\_tenrm o
+.\_tenrm u
+.\glue(\spaceskip) 6.0
+.\_tenrm w
+.\_tenrm i
+.\_tenrm t
+.\_tenrm h
+.\glue(\spaceskip) 6.0
+.\_tenrm A
+.\_tenrm l
+.\_tenrm i
+.\_tenrm s
+.\_tenrm t
+.\_tenrm a
+.\_tenrm i
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm -
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm r
+.\_tenrm a
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\glue(\spaceskip) 6.0
+.\_tenrm g
+.\_tenrm o
+.\_tenrm t
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (0.3177pt too wide) in paragraph at lines 719--725
+\_tenrm your user-names con-fused (I wouldn’t con-fuse you|
+
+\hbox(6.04+1.86)x281.6823, direction TLT
+.\_tenrm y
+.\_tenrm o
+.\_tenrm u
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm u
+.\_tenrm s
+.\_tenrm e
+.\_tenrm r
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm n
+.\_tenrm a
+.\_tenrm m
+.\_tenrm e
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm c
+.\_tenrm o
+.\_tenrm n
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm f
+.\_tenrm u
+.\_tenrm s
+.\_tenrm e
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm (
+.\_tenrm I
+.\glue(\spaceskip) 6.0
+.\_tenrm w
+.\_tenrm o
+.\_tenrm u
+.\_tenrm l
+.\_tenrm d
+.\_tenrm n
+.\_tenrm ’
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm c
+.\_tenrm o
+.\_tenrm n
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm f
+.\_tenrm u
+.\_tenrm s
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm y
+.\_tenrm o
+.\_tenrm u
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Overfull \hbox (0.3177pt too wide) in paragraph at lines 719--725
+\_tenrm with him in any other way). Do you re-mem-ber him|
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm w
+.\_tenrm i
+.\_tenrm t
+.\_tenrm h
+.\glue(\spaceskip) 6.0
+.\_tenrm h
+.\_tenrm i
+.\_tenrm m
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm n
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm w
+.\_tenrm a
+.\_tenrm y
+.\_tenrm )
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm D
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm y
+.\_tenrm o
+.\_tenrm u
+.\glue(\spaceskip) 6.0
+.\_tenrm r
+.\_tenrm e
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm m
+.\_tenrm e
+.\_tenrm m
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm b
+.\_tenrm e
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm h
+.\_tenrm i
+.\_tenrm m
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 719--725
+\_tenrm - the City bloke who was go-ing on about how he
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm -
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm C
+.\_tenrm i
+.\_tenrm t
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm b
+.\_tenrm l
+.\_tenrm o
+.\_tenrm k
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm w
+.\_tenrm h
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm w
+.\_tenrm a
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm g
+.\_tenrm o
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm n
+.\_tenrm g
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm b
+.\_tenrm o
+.\_tenrm u
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm h
+.\_tenrm o
+.\_tenrm w
+.\glue(\spaceskip) 6.0
+.\_tenrm h
+.\_tenrm e
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (6.3177pt too wide) in paragraph at lines 726--732
+[]\_tenrm I can’t ex-press some-how sorry and up-set I feel|
+
+\hbox(6.04+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm I
+.\glue(\spaceskip) 6.0
+.\_tenrm c
+.\_tenrm a
+.\_tenrm n
+.\_tenrm ’
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm e
+.\_tenrm x
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm p
+.\_tenrm r
+.\_tenrm e
+.\_tenrm s
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm o
+.\_tenrm m
+.\_tenrm e
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm h
+.\_tenrm o
+.\_tenrm w
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm o
+.\_tenrm r
+.\_tenrm r
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm n
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm u
+.\_tenrm p
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm s
+.\_tenrm e
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm e
+.\_tenrm e
+.\_tenrm l
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--732
+\_tenrm about this. You also now know my dirty secret
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm a
+.\_tenrm b
+.\_tenrm o
+.\_tenrm u
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm i
+.\_tenrm s
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm Y
+.\_tenrm o
+.\_tenrm u
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm l
+.\_tenrm s
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm n
+.\_tenrm o
+.\_tenrm w
+.\glue(\spaceskip) 6.0
+.\_tenrm k
+.\_tenrm n
+.\_tenrm o
+.\_tenrm w
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm d
+.\_tenrm i
+.\_tenrm r
+.\_tenrm t
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm e
+.\_tenrm c
+.\_tenrm r
+.\_tenrm e
+.\_tenrm t
+.\glue(\rightskip) 0.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--732
+\_tenrm that I brush men off by telling them I am ”sort
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm t
+.\_tenrm h
+.\_tenrm a
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\glue(\spaceskip) 6.0
+.\_tenrm b
+.\_tenrm r
+.\_tenrm u
+.\_tenrm s
+.\_tenrm h
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm e
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm ﬀ
+.\glue(\spaceskip) 6.0
+.\_tenrm b
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm e
+.\_tenrm l
+.\_tenrm l
+.\_tenrm i
+.\_tenrm n
+.\_tenrm g
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\_tenrm m
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm m
+.\glue(\spaceskip) 6.0
+.\_tenrm ”
+.\_tenrm s
+.\_tenrm o
+.\_tenrm r
+.\_tenrm t
+.\glue(\rightskip) 0.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--732
+\_tenrm of kind of see-ing someone”. It’s only a lie if
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm o
+.\_tenrm f
+.\glue(\spaceskip) 6.0
+.\_tenrm k
+.\_tenrm i
+.\_tenrm n
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm f
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm e
+.\_tenrm e
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm n
+.\_tenrm g
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm o
+.\_tenrm m
+.\_tenrm e
+.\_tenrm o
+.\_tenrm n
+.\_tenrm e
+.\_tenrm ”
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\_tenrm t
+.\_tenrm ’
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm n
+.\_tenrm l
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\glue(\spaceskip) 6.0
+.\_tenrm l
+.\_tenrm i
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm f
+.\glue(\rightskip) 0.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 726--732
+\_tenrm I haven’t got a date in the pipeline and I do
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm I
+.\glue(\spaceskip) 6.0
+.\_tenrm h
+.\_tenrm a
+.\_tenrm v
+.\_tenrm e
+.\_tenrm n
+.\_tenrm ’
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm g
+.\_tenrm o
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\glue(\spaceskip) 6.0
+.\_tenrm d
+.\_tenrm a
+.\_tenrm t
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm p
+.\_tenrm i
+.\_tenrm p
+.\_tenrm e
+.\_tenrm l
+.\_tenrm i
+.\_tenrm n
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm n
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\glue(\spaceskip) 6.0
+.\_tenrm d
+.\_tenrm o
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (36.3177pt too wide) in paragraph at lines 726--732
+\_tenrm ter-rible about be-ing caught ly-ing by a guy I wouldn’t|
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm t
+.\_tenrm e
+.\_tenrm r
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm r
+.\_tenrm i
+.\_tenrm b
+.\_tenrm l
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm b
+.\_tenrm o
+.\_tenrm u
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm b
+.\_tenrm e
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm n
+.\_tenrm g
+.\glue(\spaceskip) 6.0
+.\_tenrm c
+.\_tenrm a
+.\_tenrm u
+.\_tenrm g
+.\_tenrm h
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm l
+.\_tenrm y
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm n
+.\_tenrm g
+.\glue(\spaceskip) 6.0
+.\_tenrm b
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\glue(\spaceskip) 6.0
+.\_tenrm g
+.\_tenrm u
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\glue(\spaceskip) 6.0
+.\_tenrm w
+.\_tenrm o
+.\_tenrm u
+.\_tenrm l
+.\_tenrm d
+.\_tenrm n
+.\_tenrm ’
+.\_tenrm t
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Overfull \hbox (48.3177pt too wide) in paragraph at lines 726--732
+\_tenrm want to lie to. (I don’t care about ly-ing to Alistair.) |
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm w
+.\_tenrm a
+.\_tenrm n
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm l
+.\_tenrm i
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm o
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm (
+.\_tenrm I
+.\glue(\spaceskip) 6.0
+.\_tenrm d
+.\_tenrm o
+.\_tenrm n
+.\_tenrm ’
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm c
+.\_tenrm a
+.\_tenrm r
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm b
+.\_tenrm o
+.\_tenrm u
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm l
+.\_tenrm y
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm n
+.\_tenrm g
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm A
+.\_tenrm l
+.\_tenrm i
+.\_tenrm s
+.\_tenrm t
+.\_tenrm a
+.\_tenrm i
+.\_tenrm r
+.\_tenrm .
+.\_tenrm )
+.\penalty 10000
+.\glue(\parfillskip) 0.0 plus 1.0fil
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 733--737
+[]\_tenrm I’d feel much bet-ter if I did have a date in
+
+\hbox(6.1+0.16)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm I
+.\_tenrm ’
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm e
+.\_tenrm e
+.\_tenrm l
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm u
+.\_tenrm c
+.\_tenrm h
+.\glue(\spaceskip) 6.0
+.\_tenrm b
+.\_tenrm e
+.\_tenrm t
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm t
+.\_tenrm e
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm f
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\glue(\spaceskip) 6.0
+.\_tenrm d
+.\_tenrm i
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm h
+.\_tenrm a
+.\_tenrm v
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\glue(\spaceskip) 6.0
+.\_tenrm d
+.\_tenrm a
+.\_tenrm t
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm n
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (12.3177pt too wide) in paragraph at lines 733--737
+\_tenrm the pipeline. Would you like to meet up some time|
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm p
+.\_tenrm i
+.\_tenrm p
+.\_tenrm e
+.\_tenrm l
+.\_tenrm i
+.\_tenrm n
+.\_tenrm e
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm W
+.\_tenrm o
+.\_tenrm u
+.\_tenrm l
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm y
+.\_tenrm o
+.\_tenrm u
+.\glue(\spaceskip) 6.0
+.\_tenrm l
+.\_tenrm i
+.\_tenrm k
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm e
+.\_tenrm e
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm u
+.\_tenrm p
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm o
+.\_tenrm m
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm i
+.\_tenrm m
+.\_tenrm e
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Overfull \hbox (6.3177pt too wide) in paragraph at lines 733--737
+\_tenrm for a drink (I owe you one) and some-thing to eat|
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm f
+.\_tenrm o
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\glue(\spaceskip) 6.0
+.\_tenrm d
+.\_tenrm r
+.\_tenrm i
+.\_tenrm n
+.\_tenrm k
+.\glue(\spaceskip) 6.0
+.\_tenrm (
+.\_tenrm I
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm w
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm y
+.\_tenrm o
+.\_tenrm u
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm n
+.\_tenrm e
+.\_tenrm )
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm n
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm o
+.\_tenrm m
+.\_tenrm e
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm t
+.\_tenrm h
+.\_tenrm i
+.\_tenrm n
+.\_tenrm g
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm e
+.\_tenrm a
+.\_tenrm t
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 733--737
+\_tenrm and we can con-tinue our dis-cus-sion of the rel-
+
+\hbox(6.1+0.16)x281.6823, direction TLT
+.\_tenrm a
+.\_tenrm n
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm w
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm c
+.\_tenrm a
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm c
+.\_tenrm o
+.\_tenrm n
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm t
+.\_tenrm i
+.\_tenrm n
+.\_tenrm u
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm u
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm d
+.\_tenrm i
+.\_tenrm s
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm c
+.\_tenrm u
+.\_tenrm s
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm s
+.\_tenrm i
+.\_tenrm o
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm f
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm r
+.\_tenrm e
+.\_tenrm l
+.\_tenrm -
+.\discretionary (penalty 50)
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (12.3177pt too wide) in paragraph at lines 733--737
+\_tenrm ev-ance of re-search into mini-verses to the ”Hitch-|
+
+\hbox(6.1+0.16)x281.6823, direction TLT
+.\_tenrm e
+.\_tenrm v
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm a
+.\_tenrm n
+.\_tenrm c
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm f
+.\glue(\spaceskip) 6.0
+.\_tenrm r
+.\_tenrm e
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm s
+.\_tenrm e
+.\_tenrm a
+.\_tenrm r
+.\_tenrm c
+.\_tenrm h
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm n
+.\_tenrm t
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm i
+.\_tenrm n
+.\_tenrm i
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm v
+.\_tenrm e
+.\_tenrm r
+.\_tenrm s
+.\_tenrm e
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm ”
+.\_tenrm H
+.\_tenrm i
+.\_tenrm t
+.\_tenrm c
+.\_tenrm h
+.\_tenrm -
+.\discretionary (penalty 50)
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 740--742
+[]\_tenrm Look-ing for-ward to see you soon (if you can
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm L
+.\_tenrm o
+.\_tenrm o
+.\_tenrm k
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm n
+.\_tenrm g
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm o
+.\_tenrm r
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm w
+.\_tenrm a
+.\_tenrm r
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm e
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm y
+.\_tenrm o
+.\_tenrm u
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm o
+.\_tenrm o
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm (
+.\_tenrm i
+.\_tenrm f
+.\glue(\spaceskip) 6.0
+.\_tenrm y
+.\_tenrm o
+.\_tenrm u
+.\glue(\spaceskip) 6.0
+.\_tenrm c
+.\_tenrm a
+.\_tenrm n
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (0.3177pt too wide) in paragraph at lines 740--742
+\_tenrm still bring your-self to do that). My real email|
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm s
+.\_tenrm t
+.\_tenrm i
+.\_tenrm l
+.\_tenrm l
+.\glue(\spaceskip) 6.0
+.\_tenrm b
+.\_tenrm r
+.\_tenrm i
+.\_tenrm n
+.\_tenrm g
+.\glue(\spaceskip) 6.0
+.\_tenrm y
+.\_tenrm o
+.\_tenrm u
+.\_tenrm r
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm s
+.\_tenrm e
+.\_tenrm l
+.\_tenrm f
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm d
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm a
+.\_tenrm t
+.\_tenrm )
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm M
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm r
+.\_tenrm e
+.\_tenrm a
+.\_tenrm l
+.\glue(\spaceskip) 6.0
+.\_tenrm e
+.\_tenrm m
+.\_tenrm a
+.\_tenrm i
+.\_tenrm l
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+[54] [55] [56] [57] [58]) (./11SSAL_chapter4.tex
+(/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-heros.opm
+FONT: [Heros] -- \Heros (TeX Gyre Heros fonts based on Helvetica)
+ mods:{\caps \cond } vars:{\rm \bf \it \bi } math:{FiraMath}
+Modifiers:
+ \caps ...... caps & small caps
+ \cond ...... condensed variants
+ 
+) (/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-heros.opm
+FONT: [Heros] -- \Heros (TeX Gyre Heros fonts based on Helvetica)
+ mods:{\caps \cond } vars:{\rm \bf \it \bi } math:{FiraMath}
+Modifiers:
+ \caps ...... caps & small caps
+ \cond ...... condensed variants
+ 
+) [59] [60] [61] [62] [63] [64] [65] [66] [67] [68] [69] [70]
+(/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-cursor.opm
+FONT: [Cursor] -- \Cursor (TeX Gyre Cursor fonts based on Courier)
+ mods:{\caps } vars:{\rm \bf \it \bi } math:{}
+Modifier:
+ \caps ...... caps & small caps
+ 
+) [71]
+Overfull \hbox (0.3177pt too wide) in paragraph at lines 428--433
+[]\_tenrm Zoe, I can’t for-get what you said and I can’t|
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm Z
+.\_tenrm o
+.\_tenrm e
+.\_tenrm ,
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\glue(\spaceskip) 6.0
+.\_tenrm c
+.\_tenrm a
+.\_tenrm n
+.\_tenrm ’
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm o
+.\_tenrm r
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm g
+.\_tenrm e
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm w
+.\_tenrm h
+.\_tenrm a
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm y
+.\_tenrm o
+.\_tenrm u
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm a
+.\_tenrm i
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm n
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\glue(\spaceskip) 6.0
+.\_tenrm c
+.\_tenrm a
+.\_tenrm n
+.\_tenrm ’
+.\_tenrm t
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Overfull \hbox (6.3177pt too wide) in paragraph at lines 428--433
+\_tenrm for-give it. I’m not enough of a schmuck to stand|
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm f
+.\_tenrm o
+.\_tenrm r
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm g
+.\_tenrm i
+.\_tenrm v
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm t
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\_tenrm ’
+.\_tenrm m
+.\glue(\spaceskip) 6.0
+.\_tenrm n
+.\_tenrm o
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm e
+.\_tenrm n
+.\_tenrm o
+.\_tenrm u
+.\_tenrm g
+.\_tenrm h
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm f
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm c
+.\_tenrm h
+.\_tenrm m
+.\_tenrm u
+.\_tenrm c
+.\_tenrm k
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm t
+.\_tenrm a
+.\_tenrm n
+.\_tenrm d
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Overfull \hbox (12.3177pt too wide) in paragraph at lines 428--433
+\_tenrm you up by text. Not after all this time. In fact,|
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm y
+.\_tenrm o
+.\_tenrm u
+.\glue(\spaceskip) 6.0
+.\_tenrm u
+.\_tenrm p
+.\glue(\spaceskip) 6.0
+.\_tenrm b
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm e
+.\_tenrm x
+.\_tenrm t
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm N
+.\_tenrm o
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm f
+.\_tenrm t
+.\_tenrm e
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm l
+.\_tenrm l
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm i
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm i
+.\_tenrm m
+.\_tenrm e
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm a
+.\_tenrm c
+.\_tenrm t
+.\_tenrm ,
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 428--433
+\_tenrm I’m go-ing to do the op-pos-ite. I’m go-ing to sit
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm I
+.\_tenrm ’
+.\_tenrm m
+.\glue(\spaceskip) 6.0
+.\_tenrm g
+.\_tenrm o
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm n
+.\_tenrm g
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm d
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm p
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm p
+.\_tenrm o
+.\_tenrm s
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm t
+.\_tenrm e
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\_tenrm ’
+.\_tenrm m
+.\glue(\spaceskip) 6.0
+.\_tenrm g
+.\_tenrm o
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm n
+.\_tenrm g
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm i
+.\_tenrm t
+.\glue(\rightskip) 0.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 428--433
+\_tenrm you down. Our friend-ship means too much to me.
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm y
+.\_tenrm o
+.\_tenrm u
+.\glue(\spaceskip) 6.0
+.\_tenrm d
+.\_tenrm o
+.\_tenrm w
+.\_tenrm n
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm O
+.\_tenrm u
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm r
+.\_tenrm i
+.\_tenrm e
+.\_tenrm n
+.\_tenrm d
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm s
+.\_tenrm h
+.\_tenrm i
+.\_tenrm p
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm e
+.\_tenrm a
+.\_tenrm n
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm o
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm u
+.\_tenrm c
+.\_tenrm h
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm e
+.\_tenrm .
+.\glue(\rightskip) 0.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 428--433
+\_tenrm We can go on. We must must go on. See you (and
+
+\hbox(6.04+1.86)x281.6823, direction TLT
+.\_tenrm W
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm c
+.\_tenrm a
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm g
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm n
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm W
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm u
+.\_tenrm s
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm u
+.\_tenrm s
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm g
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm n
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm S
+.\_tenrm e
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm y
+.\_tenrm o
+.\_tenrm u
+.\glue(\spaceskip) 6.0
+.\_tenrm (
+.\_tenrm a
+.\_tenrm n
+.\_tenrm d
+.\glue(\rightskip) 0.0
+
+[72]) (./11SSAL_chapter5.tex
+(/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-heros.opm
+FONT: [Heros] -- \Heros (TeX Gyre Heros fonts based on Helvetica)
+ mods:{\caps \cond } vars:{\rm \bf \it \bi } math:{FiraMath}
+Modifiers:
+ \caps ...... caps & small caps
+ \cond ...... condensed variants
+ 
+) (/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-heros.opm
+FONT: [Heros] -- \Heros (TeX Gyre Heros fonts based on Helvetica)
+ mods:{\caps \cond } vars:{\rm \bf \it \bi } math:{FiraMath}
+Modifiers:
+ \caps ...... caps & small caps
+ \cond ...... condensed variants
+ 
+) [73] [74] [75] [76] [77]
+(/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-cursor.opm
+FONT: [Cursor] -- \Cursor (TeX Gyre Cursor fonts based on Courier)
+ mods:{\caps } vars:{\rm \bf \it \bi } math:{}
+Modifier:
+ \caps ...... caps & small caps
+ 
+)
+Underfull \hbox (badness 10000) in paragraph at lines 275--279
+[]\_tenrm great to meet you on Sat-urday. I had a look
+
+\hbox(6.04+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm g
+.\_tenrm r
+.\_tenrm e
+.\_tenrm a
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm e
+.\_tenrm e
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm y
+.\_tenrm o
+.\_tenrm u
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm S
+.\_tenrm a
+.\_tenrm t
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm u
+.\_tenrm r
+.\_tenrm d
+.\_tenrm a
+.\_tenrm y
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\glue(\spaceskip) 6.0
+.\_tenrm h
+.\_tenrm a
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\glue(\spaceskip) 6.0
+.\_tenrm l
+.\_tenrm o
+.\_tenrm o
+.\_tenrm k
+.\glue(\rightskip) 0.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--279
+\_tenrm at your web-site and your com-pany is do-ing in-
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm a
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm y
+.\_tenrm o
+.\_tenrm u
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm w
+.\_tenrm e
+.\_tenrm b
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm s
+.\_tenrm i
+.\_tenrm t
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm n
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm y
+.\_tenrm o
+.\_tenrm u
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm c
+.\_tenrm o
+.\_tenrm m
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm p
+.\_tenrm a
+.\_tenrm n
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm d
+.\_tenrm o
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm n
+.\_tenrm g
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm n
+.\_tenrm -
+.\discretionary (penalty 50)
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (12.3177pt too wide) in paragraph at lines 275--279
+\_tenrm ter-est-ing work, dif-fer-ent from what I do, but fun.|
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm t
+.\_tenrm e
+.\_tenrm r
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm e
+.\_tenrm s
+.\_tenrm t
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm n
+.\_tenrm g
+.\glue(\spaceskip) 6.0
+.\_tenrm w
+.\_tenrm o
+.\_tenrm r
+.\_tenrm k
+.\_tenrm ,
+.\glue(\spaceskip) 6.0
+.\_tenrm d
+.\_tenrm i
+.\discretionary (penalty 50)
+..< \_tenrm f
+..< \_tenrm -
+..> \_tenrm f
+..= \_tenrm ﬀ
+.\_tenrm e
+.\_tenrm r
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm e
+.\_tenrm n
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm r
+.\_tenrm o
+.\_tenrm m
+.\glue(\spaceskip) 6.0
+.\_tenrm w
+.\_tenrm h
+.\_tenrm a
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\glue(\spaceskip) 6.0
+.\_tenrm d
+.\_tenrm o
+.\_tenrm ,
+.\glue(\spaceskip) 6.0
+.\_tenrm b
+.\_tenrm u
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm u
+.\_tenrm n
+.\_tenrm .
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Overfull \hbox (0.3177pt too wide) in paragraph at lines 275--279
+\_tenrm Would you be in-ter-ested in meet-ing up some time|
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm W
+.\_tenrm o
+.\_tenrm u
+.\_tenrm l
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm y
+.\_tenrm o
+.\_tenrm u
+.\glue(\spaceskip) 6.0
+.\_tenrm b
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm n
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm t
+.\_tenrm e
+.\_tenrm r
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm e
+.\_tenrm s
+.\_tenrm t
+.\_tenrm e
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm e
+.\_tenrm e
+.\_tenrm t
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm n
+.\_tenrm g
+.\glue(\spaceskip) 6.0
+.\_tenrm u
+.\_tenrm p
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm o
+.\_tenrm m
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm i
+.\_tenrm m
+.\_tenrm e
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+(/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-cursor.opm
+FONT: [Cursor] -- \Cursor (TeX Gyre Cursor fonts based on Courier)
+ mods:{\caps } vars:{\rm \bf \it \bi } math:{}
+Modifier:
+ \caps ...... caps & small caps
+ 
+) [78]
+Overfull \hbox (0.3177pt too wide) in paragraph at lines 295--300
+[]\_tenrm yes, I would be in-ter-ested in meet-ing up some|
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm y
+.\_tenrm e
+.\_tenrm s
+.\_tenrm ,
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\glue(\spaceskip) 6.0
+.\_tenrm w
+.\_tenrm o
+.\_tenrm u
+.\_tenrm l
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm b
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm n
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm t
+.\_tenrm e
+.\_tenrm r
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm e
+.\_tenrm s
+.\_tenrm t
+.\_tenrm e
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm e
+.\_tenrm e
+.\_tenrm t
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm n
+.\_tenrm g
+.\glue(\spaceskip) 6.0
+.\_tenrm u
+.\_tenrm p
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm o
+.\_tenrm m
+.\_tenrm e
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 295--300
+\_tenrm time for a glass of Gamay Noir and chat about
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm t
+.\_tenrm i
+.\_tenrm m
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm o
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\glue(\spaceskip) 6.0
+.\_tenrm g
+.\_tenrm l
+.\_tenrm a
+.\_tenrm s
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm f
+.\glue(\spaceskip) 6.0
+.\_tenrm G
+.\_tenrm a
+.\_tenrm m
+.\_tenrm a
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm N
+.\_tenrm o
+.\_tenrm i
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm n
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm c
+.\_tenrm h
+.\_tenrm a
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm b
+.\_tenrm o
+.\_tenrm u
+.\_tenrm t
+.\glue(\rightskip) 0.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 295--300
+\_tenrm the work my com-pany does. I only did chem-istry
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm w
+.\_tenrm o
+.\_tenrm r
+.\_tenrm k
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm c
+.\_tenrm o
+.\_tenrm m
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm p
+.\_tenrm a
+.\_tenrm n
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm d
+.\_tenrm o
+.\_tenrm e
+.\_tenrm s
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm n
+.\_tenrm l
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm d
+.\_tenrm i
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm c
+.\_tenrm h
+.\_tenrm e
+.\_tenrm m
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm s
+.\_tenrm t
+.\_tenrm r
+.\_tenrm y
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (6.3177pt too wide) in paragraph at lines 295--300
+\_tenrm and com-put-ing at uni-ver-sity, but I’d also be in-|
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm a
+.\_tenrm n
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm c
+.\_tenrm o
+.\_tenrm m
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm p
+.\_tenrm u
+.\_tenrm t
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm n
+.\_tenrm g
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm u
+.\_tenrm n
+.\_tenrm i
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm v
+.\_tenrm e
+.\_tenrm r
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm s
+.\_tenrm i
+.\_tenrm t
+.\_tenrm y
+.\_tenrm ,
+.\glue(\spaceskip) 6.0
+.\_tenrm b
+.\_tenrm u
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\_tenrm ’
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm l
+.\_tenrm s
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm b
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm n
+.\_tenrm -
+.\discretionary (penalty 50)
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 295--300
+\_tenrm ter-ested in hav-ing about cos-mo-logy. When might
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm t
+.\_tenrm e
+.\_tenrm r
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm e
+.\_tenrm s
+.\_tenrm t
+.\_tenrm e
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm h
+.\_tenrm a
+.\_tenrm v
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm n
+.\_tenrm g
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm b
+.\_tenrm o
+.\_tenrm u
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm c
+.\_tenrm o
+.\_tenrm s
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm m
+.\_tenrm o
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm l
+.\_tenrm o
+.\_tenrm g
+.\_tenrm y
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm W
+.\_tenrm h
+.\_tenrm e
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm i
+.\_tenrm g
+.\_tenrm h
+.\_tenrm t
+.\glue(\rightskip) 0.0
+
+[79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90] [91]
+Underfull \hbox (badness 1831) in paragraph at lines 964--968
+[]\_tenrm ‘Yes, it is,’ said Miles. They ex-changed sig-ni-fic-ant glances.
+
+\hbox(6.83+2.18)x281.6823, glue set 2.63797, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm ‘
+.\kern-0.25 (font)
+.\_tenrm Y
+.\kern-1.05 (font)
+.\_tenrm e
+.\_tenrm s
+.\_tenrm ,
+.\glue(\spaceskip) 2.5 plus 1.5625 minus 0.66666
+.\_tenrm i
+.\_tenrm t
+.\glue(\spaceskip) 2.5 plus 1.25 minus 0.83333
+.\_tenrm i
+.\_tenrm s
+.\_tenrm ,
+.\kern-0.55 (font)
+.\_tenrm ’
+.\glue(\spaceskip) 2.5 plus 1.25 minus 0.83333
+.\_tenrm s
+.\_tenrm a
+.\_tenrm i
+.\_tenrm d
+.\glue(\spaceskip) 2.5 plus 1.25 minus 0.83333
+.\_tenrm M
+.\_tenrm i
+.\_tenrm l
+.\_tenrm e
+.\_tenrm s
+.\_tenrm .
+.\glue(\spaceskip) 3.33333 plus 3.75 minus 0.27777
+.\_tenrm T
+.\_tenrm h
+.\_tenrm e
+.\kern-0.3 (font)
+.\_tenrm y
+.\glue(\spaceskip) 2.5 plus 1.25 minus 0.83333
+.\_tenrm e
+.\kern-0.35 (font)
+.\_tenrm x
+.\discretionary (penalty 50)
+..< \_tenrm -
+..= \kern-0.35 (font)
+.\_tenrm c
+.\kern-0.15 (font)
+.\_tenrm h
+.\_tenrm a
+.\_tenrm n
+.\_tenrm g
+.\kern-0.25 (font)
+.\_tenrm e
+.\_tenrm d
+.\glue(\spaceskip) 2.5 plus 1.25 minus 0.83333
+.\_tenrm s
+.\_tenrm i
+.\_tenrm g
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm n
+.\_tenrm i
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm ﬁ
+.\_tenrm c
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm a
+.\_tenrm n
+.\_tenrm t
+.\glue(\spaceskip) 2.5 plus 1.25 minus 0.83333
+.\_tenrm g
+.\_tenrm l
+.\_tenrm a
+.\_tenrm n
+.\_tenrm c
+.\_tenrm e
+.\_tenrm s
+.\_tenrm .
+.\glue(\rightskip) 0.0
+
+[92] [93] [94]) (./11SSAL_chapter6.tex
+(/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-heros.opm
+FONT: [Heros] -- \Heros (TeX Gyre Heros fonts based on Helvetica)
+ mods:{\caps \cond } vars:{\rm \bf \it \bi } math:{FiraMath}
+Modifiers:
+ \caps ...... caps & small caps
+ \cond ...... condensed variants
+ 
+) (/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-heros.opm
+FONT: [Heros] -- \Heros (TeX Gyre Heros fonts based on Helvetica)
+ mods:{\caps \cond } vars:{\rm \bf \it \bi } math:{FiraMath}
+Modifiers:
+ \caps ...... caps & small caps
+ \cond ...... condensed variants
+ 
+) [95] [96] [97] [98] [99] [100] [101] [102] [103] [104] [105] [106] [107]
+[108] [109]) (./11SSAL_chapter7.tex
+(/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-heros.opm
+FONT: [Heros] -- \Heros (TeX Gyre Heros fonts based on Helvetica)
+ mods:{\caps \cond } vars:{\rm \bf \it \bi } math:{FiraMath}
+Modifiers:
+ \caps ...... caps & small caps
+ \cond ...... condensed variants
+ 
+) (/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-heros.opm
+FONT: [Heros] -- \Heros (TeX Gyre Heros fonts based on Helvetica)
+ mods:{\caps \cond } vars:{\rm \bf \it \bi } math:{FiraMath}
+Modifiers:
+ \caps ...... caps & small caps
+ \cond ...... condensed variants
+ 
+) [110] [111] [112] [113] [114] [115] [116]
+(/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-heros.opm
+FONT: [Heros] -- \Heros (TeX Gyre Heros fonts based on Helvetica)
+ mods:{\caps \cond } vars:{\rm \bf \it \bi } math:{FiraMath}
+Modifiers:
+ \caps ...... caps & small caps
+ \cond ...... condensed variants
+ 
+) (/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-cursor.opm
+FONT: [Cursor] -- \Cursor (TeX Gyre Cursor fonts based on Courier)
+ mods:{\caps } vars:{\rm \bf \it \bi } math:{}
+Modifier:
+ \caps ...... caps & small caps
+ 
+)
+Underfull \hbox (badness 10000) in paragraph at lines 367--383
+[]\_tenrm ”Zoe Heriot-Shaw” phys-ics ”Im-per-ial Col-lege”\_tenrm )
+
+\hbox(6.76+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm ”
+.\_tenrm Z
+.\_tenrm o
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm H
+.\_tenrm e
+.\_tenrm r
+.\_tenrm i
+.\_tenrm o
+.\_tenrm t
+.\discretionary (penalty 50)
+..< \_tenrm -
+..= \_tenrm -
+.\_tenrm S
+.\_tenrm h
+.\_tenrm a
+.\_tenrm w
+.\_tenrm ”
+.\glue(\spaceskip) 6.0
+.\_tenrm p
+.\_tenrm h
+.\_tenrm y
+.\_tenrm s
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm c
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm ”
+.\_tenrm I
+.\_tenrm m
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm p
+.\_tenrm e
+.\_tenrm r
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm a
+.\_tenrm l
+.\glue(\spaceskip) 6.0
+.\_tenrm C
+.\_tenrm o
+.\_tenrm l
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm l
+.\_tenrm e
+.\_tenrm g
+.\_tenrm e
+.\_tenrm ”
+.\_tenrm )
+.\glue(\rightskip) 0.0
+
+[117] [118] [119] [120] [121] [122]
+(/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-cursor.opm
+FONT: [Cursor] -- \Cursor (TeX Gyre Cursor fonts based on Courier)
+ mods:{\caps } vars:{\rm \bf \it \bi } math:{}
+Modifier:
+ \caps ...... caps & small caps
+ 
+)
+Underfull \hbox (badness 10000) in paragraph at lines 639--639
+[]\_tenrm Alex Black-well here. We met on the tube the
+
+\hbox(6.04+0.16)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm A
+.\_tenrm l
+.\_tenrm e
+.\_tenrm x
+.\glue(\spaceskip) 6.0
+.\_tenrm B
+.\_tenrm l
+.\_tenrm a
+.\_tenrm c
+.\_tenrm k
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm w
+.\_tenrm e
+.\_tenrm l
+.\_tenrm l
+.\glue(\spaceskip) 6.0
+.\_tenrm h
+.\_tenrm e
+.\_tenrm r
+.\_tenrm e
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm W
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm e
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm u
+.\_tenrm b
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (6.3177pt too wide) in paragraph at lines 640--640
+[]\_tenrm sim-u-la-tion of the prob-ab-il-ity of someone read-|
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm s
+.\_tenrm i
+.\_tenrm m
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm u
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm l
+.\_tenrm a
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm t
+.\_tenrm i
+.\_tenrm o
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm f
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm p
+.\_tenrm r
+.\_tenrm o
+.\_tenrm b
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm a
+.\_tenrm b
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm l
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm t
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm f
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm o
+.\_tenrm m
+.\_tenrm e
+.\_tenrm o
+.\_tenrm n
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm r
+.\_tenrm e
+.\_tenrm a
+.\_tenrm d
+.\_tenrm -
+.\discretionary (penalty 50)
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 641--641
+[]\_tenrm bump-ing into someone who is an ex-pert on the
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm b
+.\_tenrm u
+.\_tenrm m
+.\_tenrm p
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm n
+.\_tenrm g
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm n
+.\_tenrm t
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm o
+.\_tenrm m
+.\_tenrm e
+.\_tenrm o
+.\_tenrm n
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm w
+.\_tenrm h
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm e
+.\_tenrm x
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm p
+.\_tenrm e
+.\_tenrm r
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\glue(\rightskip) 0.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 642--642
+[]\_tenrm prin-ciple. If you’re in-ter-ested in the res-
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm p
+.\_tenrm r
+.\_tenrm i
+.\_tenrm n
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm c
+.\_tenrm i
+.\_tenrm p
+.\_tenrm l
+.\_tenrm e
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\_tenrm f
+.\glue(\spaceskip) 6.0
+.\_tenrm y
+.\_tenrm o
+.\_tenrm u
+.\_tenrm ’
+.\_tenrm r
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm n
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm t
+.\_tenrm e
+.\_tenrm r
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm e
+.\_tenrm s
+.\_tenrm t
+.\_tenrm e
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm r
+.\_tenrm e
+.\_tenrm s
+.\_tenrm -
+.\discretionary (penalty 50)
+.\glue(\rightskip) 0.0
+
+[123] (/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-cursor.opm
+FONT: [Cursor] -- \Cursor (TeX Gyre Cursor fonts based on Courier)
+ mods:{\caps } vars:{\rm \bf \it \bi } math:{}
+Modifier:
+ \caps ...... caps & small caps
+ 
+) (/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-cursor.opm
+FONT: [Cursor] -- \Cursor (TeX Gyre Cursor fonts based on Courier)
+ mods:{\caps } vars:{\rm \bf \it \bi } math:{}
+Modifier:
+ \caps ...... caps & small caps
+ 
+)
+Underfull \hbox (badness 10000) in paragraph at lines 677--677
+[]\_tenrm great to hear from you. Yes. I’d be very in-
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm g
+.\_tenrm r
+.\_tenrm e
+.\_tenrm a
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm h
+.\_tenrm e
+.\_tenrm a
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm r
+.\_tenrm o
+.\_tenrm m
+.\glue(\spaceskip) 6.0
+.\_tenrm y
+.\_tenrm o
+.\_tenrm u
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm Y
+.\_tenrm e
+.\_tenrm s
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\_tenrm ’
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm b
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm v
+.\_tenrm e
+.\_tenrm r
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm n
+.\_tenrm -
+.\discretionary (penalty 50)
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (6.3177pt too wide) in paragraph at lines 678--678
+[]\_tenrm res-ults. What about meet-ing up to dis-cuss over|
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm r
+.\_tenrm e
+.\_tenrm s
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm u
+.\_tenrm l
+.\_tenrm t
+.\_tenrm s
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm W
+.\_tenrm h
+.\_tenrm a
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm b
+.\_tenrm o
+.\_tenrm u
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm e
+.\_tenrm e
+.\_tenrm t
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm n
+.\_tenrm g
+.\glue(\spaceskip) 6.0
+.\_tenrm u
+.\_tenrm p
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm d
+.\_tenrm i
+.\_tenrm s
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm c
+.\_tenrm u
+.\_tenrm s
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm v
+.\_tenrm e
+.\_tenrm r
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 679--679
+[]\_tenrm about The Arch-duke near Wa-ter-loo sta-tion? Do
+
+\hbox(6.1+0.16)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm a
+.\_tenrm b
+.\_tenrm o
+.\_tenrm u
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm T
+.\_tenrm h
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm A
+.\_tenrm r
+.\_tenrm c
+.\_tenrm h
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm d
+.\_tenrm u
+.\_tenrm k
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm n
+.\_tenrm e
+.\_tenrm a
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm W
+.\_tenrm a
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm t
+.\_tenrm e
+.\_tenrm r
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm l
+.\_tenrm o
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm t
+.\_tenrm a
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm t
+.\_tenrm i
+.\_tenrm o
+.\_tenrm n
+.\_tenrm ?
+.\glue(\spaceskip) 6.0
+.\_tenrm D
+.\_tenrm o
+.\glue(\rightskip) 0.0
+
+[124] [125] [126] [127] [128]) (./11SSAL_chapter8.tex
+(/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-cursor.opm
+FONT: [Cursor] -- \Cursor (TeX Gyre Cursor fonts based on Courier)
+ mods:{\caps } vars:{\rm \bf \it \bi } math:{}
+Modifier:
+ \caps ...... caps & small caps
+ 
+) (/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-cursor.opm
+FONT: [Cursor] -- \Cursor (TeX Gyre Cursor fonts based on Courier)
+ mods:{\caps } vars:{\rm \bf \it \bi } math:{}
+Modifier:
+ \caps ...... caps & small caps
+ 
+) [129] [130] [131] [132] [133] [134]
+(/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-cursor.opm
+FONT: [Cursor] -- \Cursor (TeX Gyre Cursor fonts based on Courier)
+ mods:{\caps } vars:{\rm \bf \it \bi } math:{}
+Modifier:
+ \caps ...... caps & small caps
+ 
+)
+Overfull \hbox (0.3177pt too wide) in paragraph at lines 241--241
+[]\_tenrm I’m a Den-nett fan. I’m not con-vinced that the|
+
+\hbox(6.1+0.16)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm I
+.\_tenrm ’
+.\_tenrm m
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\glue(\spaceskip) 6.0
+.\_tenrm D
+.\_tenrm e
+.\_tenrm n
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm n
+.\_tenrm e
+.\_tenrm t
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm a
+.\_tenrm n
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\_tenrm ’
+.\_tenrm m
+.\glue(\spaceskip) 6.0
+.\_tenrm n
+.\_tenrm o
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm c
+.\_tenrm o
+.\_tenrm n
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm v
+.\_tenrm i
+.\_tenrm n
+.\_tenrm c
+.\_tenrm e
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm a
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--242
+[]\_tenrm philo-soph-ical zom-bie is co-her-ent, so I can’t
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm p
+.\_tenrm h
+.\_tenrm i
+.\_tenrm l
+.\_tenrm o
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm s
+.\_tenrm o
+.\_tenrm p
+.\_tenrm h
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm c
+.\_tenrm a
+.\_tenrm l
+.\glue(\spaceskip) 6.0
+.\_tenrm z
+.\_tenrm o
+.\_tenrm m
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm b
+.\_tenrm i
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm c
+.\_tenrm o
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm h
+.\_tenrm e
+.\_tenrm r
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm e
+.\_tenrm n
+.\_tenrm t
+.\_tenrm ,
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\glue(\spaceskip) 6.0
+.\_tenrm c
+.\_tenrm a
+.\_tenrm n
+.\_tenrm ’
+.\_tenrm t
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (0.3177pt too wide) in paragraph at lines 243--243
+[]\_tenrm boss lacks qualia, al-though it might help ex-|
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm b
+.\_tenrm o
+.\_tenrm s
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm l
+.\_tenrm a
+.\_tenrm c
+.\_tenrm k
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm q
+.\_tenrm u
+.\_tenrm a
+.\_tenrm l
+.\_tenrm i
+.\_tenrm a
+.\_tenrm ,
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm l
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm t
+.\_tenrm h
+.\_tenrm o
+.\_tenrm u
+.\_tenrm g
+.\_tenrm h
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm i
+.\_tenrm g
+.\_tenrm h
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm h
+.\_tenrm e
+.\_tenrm l
+.\_tenrm p
+.\glue(\spaceskip) 6.0
+.\_tenrm e
+.\_tenrm x
+.\_tenrm -
+.\discretionary (penalty 50)
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+(/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-cursor.opm
+FONT: [Cursor] -- \Cursor (TeX Gyre Cursor fonts based on Courier)
+ mods:{\caps } vars:{\rm \bf \it \bi } math:{}
+Modifier:
+ \caps ...... caps & small caps
+ 
+)
+Underfull \hbox (badness 10000) in paragraph at lines 265--265
+[]\_tenrm thanks for the card. It’s a pretty freak-ily
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm t
+.\_tenrm h
+.\_tenrm a
+.\_tenrm n
+.\_tenrm k
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm o
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm c
+.\_tenrm a
+.\_tenrm r
+.\_tenrm d
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\_tenrm t
+.\_tenrm ’
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\glue(\spaceskip) 6.0
+.\_tenrm p
+.\_tenrm r
+.\_tenrm e
+.\_tenrm t
+.\_tenrm t
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm r
+.\_tenrm e
+.\_tenrm a
+.\_tenrm k
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm l
+.\_tenrm y
+.\glue(\rightskip) 0.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--266
+[]\_tenrm night sky. I won-der if van Gogh had seen the
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm n
+.\_tenrm i
+.\_tenrm g
+.\_tenrm h
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm k
+.\_tenrm y
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\glue(\spaceskip) 6.0
+.\_tenrm w
+.\_tenrm o
+.\_tenrm n
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm d
+.\_tenrm e
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm f
+.\glue(\spaceskip) 6.0
+.\_tenrm v
+.\_tenrm a
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm G
+.\_tenrm o
+.\_tenrm g
+.\_tenrm h
+.\glue(\spaceskip) 6.0
+.\_tenrm h
+.\_tenrm a
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm e
+.\_tenrm e
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (0.3177pt too wide) in paragraph at lines 267--267
+[]\_tenrm sketches of the Whirl-pool galaxy? There is no|
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm s
+.\_tenrm k
+.\_tenrm e
+.\_tenrm t
+.\_tenrm c
+.\_tenrm h
+.\_tenrm e
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm f
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm W
+.\_tenrm h
+.\_tenrm i
+.\_tenrm r
+.\_tenrm l
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm p
+.\_tenrm o
+.\_tenrm o
+.\_tenrm l
+.\glue(\spaceskip) 6.0
+.\_tenrm g
+.\_tenrm a
+.\_tenrm l
+.\_tenrm a
+.\_tenrm x
+.\_tenrm y
+.\_tenrm ?
+.\glue(\spaceskip) 6.0
+.\_tenrm T
+.\_tenrm h
+.\_tenrm e
+.\_tenrm r
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm n
+.\_tenrm o
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--270
+[]\_tenrm As for my boss, from the look in his eyes, I
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm A
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm o
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm b
+.\_tenrm o
+.\_tenrm s
+.\_tenrm s
+.\_tenrm ,
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm r
+.\_tenrm o
+.\_tenrm m
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm l
+.\_tenrm o
+.\_tenrm o
+.\_tenrm k
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm h
+.\_tenrm i
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm e
+.\_tenrm y
+.\_tenrm e
+.\_tenrm s
+.\_tenrm ,
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\glue(\rightskip) 0.0
+
+[135]
+Overfull \hbox (18.3177pt too wide) in paragraph at lines 273--273
+[]\_tenrm Ham-burgers and shakes? Well, every now and then.|
+
+\hbox(6.04+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm H
+.\_tenrm a
+.\_tenrm m
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm b
+.\_tenrm u
+.\_tenrm r
+.\_tenrm g
+.\_tenrm e
+.\_tenrm r
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm n
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm h
+.\_tenrm a
+.\_tenrm k
+.\_tenrm e
+.\_tenrm s
+.\_tenrm ?
+.\glue(\spaceskip) 6.0
+.\_tenrm W
+.\_tenrm e
+.\_tenrm l
+.\_tenrm l
+.\_tenrm ,
+.\glue(\spaceskip) 6.0
+.\_tenrm e
+.\_tenrm v
+.\_tenrm e
+.\_tenrm r
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm n
+.\_tenrm o
+.\_tenrm w
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm n
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\_tenrm n
+.\_tenrm .
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+(/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-cursor.opm
+FONT: [Cursor] -- \Cursor (TeX Gyre Cursor fonts based on Courier)
+ mods:{\caps } vars:{\rm \bf \it \bi } math:{}
+Modifier:
+ \caps ...... caps & small caps
+ 
+) [136] (/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-cursor.opm
+FONT: [Cursor] -- \Cursor (TeX Gyre Cursor fonts based on Courier)
+ mods:{\caps } vars:{\rm \bf \it \bi } math:{}
+Modifier:
+ \caps ...... caps & small caps
+ 
+)
+Underfull \hbox (badness 10000) in paragraph at lines 335--335
+[]\_tenrm The Earl of Rosse had the largest tele-scope
+
+\hbox(6.04+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm T
+.\_tenrm h
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm E
+.\_tenrm a
+.\_tenrm r
+.\_tenrm l
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm f
+.\glue(\spaceskip) 6.0
+.\_tenrm R
+.\_tenrm o
+.\_tenrm s
+.\_tenrm s
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm h
+.\_tenrm a
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm l
+.\_tenrm a
+.\_tenrm r
+.\_tenrm g
+.\_tenrm e
+.\_tenrm s
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm e
+.\_tenrm l
+.\_tenrm e
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm s
+.\_tenrm c
+.\_tenrm o
+.\_tenrm p
+.\_tenrm e
+.\glue(\rightskip) 0.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 336--336
+[]\_tenrm mid-nineteenth cen-tury, so he must have been
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm m
+.\_tenrm i
+.\_tenrm d
+.\discretionary (penalty 50)
+..< \_tenrm -
+..= \_tenrm -
+.\_tenrm n
+.\_tenrm i
+.\_tenrm n
+.\_tenrm e
+.\_tenrm t
+.\_tenrm e
+.\_tenrm e
+.\_tenrm n
+.\_tenrm t
+.\_tenrm h
+.\glue(\spaceskip) 6.0
+.\_tenrm c
+.\_tenrm e
+.\_tenrm n
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm t
+.\_tenrm u
+.\_tenrm r
+.\_tenrm y
+.\_tenrm ,
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm h
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm u
+.\_tenrm s
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm h
+.\_tenrm a
+.\_tenrm v
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm b
+.\_tenrm e
+.\_tenrm e
+.\_tenrm n
+.\glue(\rightskip) 0.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 337--337
+[]\_tenrm celebrity. I don’t know to what ex-tend this
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm c
+.\_tenrm e
+.\_tenrm l
+.\_tenrm e
+.\_tenrm b
+.\_tenrm r
+.\_tenrm i
+.\_tenrm t
+.\_tenrm y
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\glue(\spaceskip) 6.0
+.\_tenrm d
+.\_tenrm o
+.\_tenrm n
+.\_tenrm ’
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm k
+.\_tenrm n
+.\_tenrm o
+.\_tenrm w
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm w
+.\_tenrm h
+.\_tenrm a
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm e
+.\_tenrm x
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm t
+.\_tenrm e
+.\_tenrm n
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm i
+.\_tenrm s
+.\glue(\rightskip) 0.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 338--338
+[]\_tenrm re-pro-duced in C19th books and magazines, but
+
+\hbox(6.18+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm r
+.\_tenrm e
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm p
+.\_tenrm r
+.\_tenrm o
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm d
+.\_tenrm u
+.\_tenrm c
+.\_tenrm e
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm C
+.\_tenrm 1
+.\_tenrm 9
+.\_tenrm t
+.\_tenrm h
+.\glue(\spaceskip) 6.0
+.\_tenrm b
+.\_tenrm o
+.\_tenrm o
+.\_tenrm k
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm n
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm a
+.\_tenrm g
+.\_tenrm a
+.\_tenrm z
+.\_tenrm i
+.\_tenrm n
+.\_tenrm e
+.\_tenrm s
+.\_tenrm ,
+.\glue(\spaceskip) 6.0
+.\_tenrm b
+.\_tenrm u
+.\_tenrm t
+.\glue(\rightskip) 0.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 339--339
+[]\_tenrm re-pro-duc-tion of Rosse’s sketch couldn’t have
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm r
+.\_tenrm e
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm p
+.\_tenrm r
+.\_tenrm o
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm d
+.\_tenrm u
+.\_tenrm c
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm t
+.\_tenrm i
+.\_tenrm o
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm f
+.\glue(\spaceskip) 6.0
+.\_tenrm R
+.\_tenrm o
+.\_tenrm s
+.\_tenrm s
+.\_tenrm e
+.\_tenrm ’
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm k
+.\_tenrm e
+.\_tenrm t
+.\_tenrm c
+.\_tenrm h
+.\glue(\spaceskip) 6.0
+.\_tenrm c
+.\_tenrm o
+.\_tenrm u
+.\_tenrm l
+.\_tenrm d
+.\_tenrm n
+.\_tenrm ’
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm h
+.\_tenrm a
+.\_tenrm v
+.\_tenrm e
+.\glue(\rightskip) 0.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 340--340
+[]\_tenrm magazine that van Gogh came across. It would
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm m
+.\_tenrm a
+.\_tenrm g
+.\_tenrm a
+.\_tenrm z
+.\_tenrm i
+.\_tenrm n
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm a
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm v
+.\_tenrm a
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm G
+.\_tenrm o
+.\_tenrm g
+.\_tenrm h
+.\glue(\spaceskip) 6.0
+.\_tenrm c
+.\_tenrm a
+.\_tenrm m
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm c
+.\_tenrm r
+.\_tenrm o
+.\_tenrm s
+.\_tenrm s
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm w
+.\_tenrm o
+.\_tenrm u
+.\_tenrm l
+.\_tenrm d
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (6.3177pt too wide) in paragraph at lines 343--343
+[]\_tenrm Would you like to meet up ham-burgers and fries|
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm W
+.\_tenrm o
+.\_tenrm u
+.\_tenrm l
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm y
+.\_tenrm o
+.\_tenrm u
+.\glue(\spaceskip) 6.0
+.\_tenrm l
+.\_tenrm i
+.\_tenrm k
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm e
+.\_tenrm e
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm u
+.\_tenrm p
+.\glue(\spaceskip) 6.0
+.\_tenrm h
+.\_tenrm a
+.\_tenrm m
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm b
+.\_tenrm u
+.\_tenrm r
+.\_tenrm g
+.\_tenrm e
+.\_tenrm r
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm n
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm r
+.\_tenrm i
+.\_tenrm e
+.\_tenrm s
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+(/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-heros.opm
+FONT: [Heros] -- \Heros (TeX Gyre Heros fonts based on Helvetica)
+ mods:{\caps \cond } vars:{\rm \bf \it \bi } math:{FiraMath}
+Modifiers:
+ \caps ...... caps & small caps
+ \cond ...... condensed variants
+ 
+) [137] (/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-cursor.opm
+FONT: [Cursor] -- \Cursor (TeX Gyre Cursor fonts based on Courier)
+ mods:{\caps } vars:{\rm \bf \it \bi } math:{}
+Modifier:
+ \caps ...... caps & small caps
+ 
+)
+Underfull \hbox (badness 10000) in paragraph at lines 368--368
+[]\_tenrm ”Stars - each, per-haps a sun! Far, far away
+
+\hbox(6.18+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm ”
+.\_tenrm S
+.\_tenrm t
+.\_tenrm a
+.\_tenrm r
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm -
+.\glue(\spaceskip) 6.0
+.\_tenrm e
+.\_tenrm a
+.\_tenrm c
+.\_tenrm h
+.\_tenrm ,
+.\glue(\spaceskip) 6.0
+.\_tenrm p
+.\_tenrm e
+.\_tenrm r
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm h
+.\_tenrm a
+.\_tenrm p
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm u
+.\_tenrm n
+.\_tenrm !
+.\glue(\spaceskip) 6.0
+.\_tenrm F
+.\_tenrm a
+.\_tenrm r
+.\_tenrm ,
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm a
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm w
+.\_tenrm a
+.\_tenrm y
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (0.3177pt too wide) in paragraph at lines 369--369
+[]\_tenrm troubles is the mind car-ried by such thoughts|
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm t
+.\_tenrm r
+.\_tenrm o
+.\_tenrm u
+.\_tenrm b
+.\_tenrm l
+.\_tenrm e
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm i
+.\_tenrm n
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm c
+.\_tenrm a
+.\_tenrm r
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm r
+.\_tenrm i
+.\_tenrm e
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm b
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm u
+.\_tenrm c
+.\_tenrm h
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm o
+.\_tenrm u
+.\_tenrm g
+.\_tenrm h
+.\_tenrm t
+.\_tenrm s
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 371--371
+[]\_tenrm Vin-cent Willem van Gogh - ”Col-lec-ted Cor-res-
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm V
+.\_tenrm i
+.\_tenrm n
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm c
+.\_tenrm e
+.\_tenrm n
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm W
+.\_tenrm i
+.\_tenrm l
+.\_tenrm l
+.\_tenrm e
+.\_tenrm m
+.\glue(\spaceskip) 6.0
+.\_tenrm v
+.\_tenrm a
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm G
+.\_tenrm o
+.\_tenrm g
+.\_tenrm h
+.\glue(\spaceskip) 6.0
+.\_tenrm -
+.\glue(\spaceskip) 6.0
+.\_tenrm ”
+.\_tenrm C
+.\_tenrm o
+.\_tenrm l
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm l
+.\_tenrm e
+.\_tenrm c
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm t
+.\_tenrm e
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm C
+.\_tenrm o
+.\_tenrm r
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm r
+.\_tenrm e
+.\_tenrm s
+.\_tenrm -
+.\discretionary (penalty 50)
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (0.3177pt too wide) in paragraph at lines 373--373
+[]\_tenrm So, he was def-in-itely in-ter-ested in as-tro-nomy!|
+
+\hbox(6.18+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm S
+.\_tenrm o
+.\_tenrm ,
+.\glue(\spaceskip) 6.0
+.\_tenrm h
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm w
+.\_tenrm a
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm d
+.\_tenrm e
+.\discretionary (penalty 50)
+..< \_tenrm f
+..< \_tenrm -
+..> \_tenrm i
+..= \_tenrm ﬁ
+.\_tenrm n
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm t
+.\_tenrm e
+.\_tenrm l
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm n
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm t
+.\_tenrm e
+.\_tenrm r
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm e
+.\_tenrm s
+.\_tenrm t
+.\_tenrm e
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm s
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm t
+.\_tenrm r
+.\_tenrm o
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm n
+.\_tenrm o
+.\_tenrm m
+.\_tenrm y
+.\_tenrm !
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Overfull \hbox (18.3177pt too wide) in paragraph at lines 374--374
+[]\_tenrm learn via a quick search (what a won-der-ful thing|
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm l
+.\_tenrm e
+.\_tenrm a
+.\_tenrm r
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm v
+.\_tenrm i
+.\_tenrm a
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\glue(\spaceskip) 6.0
+.\_tenrm q
+.\_tenrm u
+.\_tenrm i
+.\_tenrm c
+.\_tenrm k
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm e
+.\_tenrm a
+.\_tenrm r
+.\_tenrm c
+.\_tenrm h
+.\glue(\spaceskip) 6.0
+.\_tenrm (
+.\_tenrm w
+.\_tenrm h
+.\_tenrm a
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\glue(\spaceskip) 6.0
+.\_tenrm w
+.\_tenrm o
+.\_tenrm n
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm d
+.\_tenrm e
+.\_tenrm r
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm f
+.\_tenrm u
+.\_tenrm l
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm i
+.\_tenrm n
+.\_tenrm g
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 375--375
+[]\_tenrm sim-ilar pic-ture to van Gogh paint-ing in Ca-m-
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm s
+.\_tenrm i
+.\_tenrm m
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm l
+.\_tenrm a
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm p
+.\_tenrm i
+.\_tenrm c
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm t
+.\_tenrm u
+.\_tenrm r
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm v
+.\_tenrm a
+.\_tenrm n
+.\penalty 10000
+.\glue(\spaceskip) 6.0
+.\_tenrm G
+.\_tenrm o
+.\_tenrm g
+.\_tenrm h
+.\glue(\spaceskip) 6.0
+.\_tenrm p
+.\_tenrm a
+.\_tenrm i
+.\_tenrm n
+.\_tenrm t
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm n
+.\_tenrm g
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm C
+.\_tenrm a
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm m
+.\_tenrm -
+.\discretionary (penalty 50)
+.\glue(\rightskip) 0.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 376--376
+[]\_tenrm read (as was van Gogh!) ”Pop-u-lar As-tro-nomy”.
+
+\hbox(6.18+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm r
+.\_tenrm e
+.\_tenrm a
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm (
+.\_tenrm a
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm w
+.\_tenrm a
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm v
+.\_tenrm a
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm G
+.\_tenrm o
+.\_tenrm g
+.\_tenrm h
+.\_tenrm !
+.\_tenrm )
+.\glue(\spaceskip) 6.0
+.\_tenrm ”
+.\_tenrm P
+.\_tenrm o
+.\_tenrm p
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm u
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm l
+.\_tenrm a
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm A
+.\_tenrm s
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm t
+.\_tenrm r
+.\_tenrm o
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm n
+.\_tenrm o
+.\_tenrm m
+.\_tenrm y
+.\_tenrm ”
+.\_tenrm .
+.\glue(\rightskip) 0.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 379--379
+[]\_tenrm I’d very much like to meet up some time soon
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm I
+.\_tenrm ’
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm v
+.\_tenrm e
+.\_tenrm r
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm u
+.\_tenrm c
+.\_tenrm h
+.\glue(\spaceskip) 6.0
+.\_tenrm l
+.\_tenrm i
+.\_tenrm k
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm e
+.\_tenrm e
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm u
+.\_tenrm p
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm o
+.\_tenrm m
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm i
+.\_tenrm m
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm o
+.\_tenrm o
+.\_tenrm n
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (12.3177pt too wide) in paragraph at lines 380--380
+[]\_tenrm fries. Is there any-where par-tic-u-lar place you’d|
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm f
+.\_tenrm r
+.\_tenrm i
+.\_tenrm e
+.\_tenrm s
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\_tenrm r
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm n
+.\_tenrm y
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm w
+.\_tenrm h
+.\_tenrm e
+.\_tenrm r
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm p
+.\_tenrm a
+.\_tenrm r
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm t
+.\_tenrm i
+.\_tenrm c
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm u
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm l
+.\_tenrm a
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm p
+.\_tenrm l
+.\_tenrm a
+.\_tenrm c
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm y
+.\_tenrm o
+.\_tenrm u
+.\_tenrm ’
+.\_tenrm d
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Overfull \hbox (12.3177pt too wide) in paragraph at lines 381--381
+[]\_tenrm What sorts of times and dates are good for you? |
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm W
+.\_tenrm h
+.\_tenrm a
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm o
+.\_tenrm r
+.\_tenrm t
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm f
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm i
+.\_tenrm m
+.\_tenrm e
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm n
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm d
+.\_tenrm a
+.\_tenrm t
+.\_tenrm e
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm r
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm g
+.\_tenrm o
+.\_tenrm o
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm o
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm y
+.\_tenrm o
+.\_tenrm u
+.\_tenrm ?
+.\penalty 10000
+.\glue(\parfillskip) 0.0 plus 1.0fil
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+[138] [139] [140] [141] [142] [143] [144] [145] [146] [147] [148] [149]
+[150]) (./11SSAL_chapter9.tex
+(/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-heros.opm
+FONT: [Heros] -- \Heros (TeX Gyre Heros fonts based on Helvetica)
+ mods:{\caps \cond } vars:{\rm \bf \it \bi } math:{FiraMath}
+Modifiers:
+ \caps ...... caps & small caps
+ \cond ...... condensed variants
+ 
+) (/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-heros.opm
+FONT: [Heros] -- \Heros (TeX Gyre Heros fonts based on Helvetica)
+ mods:{\caps \cond } vars:{\rm \bf \it \bi } math:{FiraMath}
+Modifiers:
+ \caps ...... caps & small caps
+ \cond ...... condensed variants
+ 
+) [151] [152] (/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-cursor.opm
+FONT: [Cursor] -- \Cursor (TeX Gyre Cursor fonts based on Courier)
+ mods:{\caps } vars:{\rm \bf \it \bi } math:{}
+Modifier:
+ \caps ...... caps & small caps
+ 
+)
+Overfull \hbox (12.3177pt too wide) in paragraph at lines 129--132
+[]\_tenrm great to hear from you. Hope you’re hav-ing fun.|
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm g
+.\_tenrm r
+.\_tenrm e
+.\_tenrm a
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm h
+.\_tenrm e
+.\_tenrm a
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm r
+.\_tenrm o
+.\_tenrm m
+.\glue(\spaceskip) 6.0
+.\_tenrm y
+.\_tenrm o
+.\_tenrm u
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm H
+.\_tenrm o
+.\_tenrm p
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm y
+.\_tenrm o
+.\_tenrm u
+.\_tenrm ’
+.\_tenrm r
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm h
+.\_tenrm a
+.\_tenrm v
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm n
+.\_tenrm g
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm u
+.\_tenrm n
+.\_tenrm .
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Overfull \hbox (24.3177pt too wide) in paragraph at lines 129--132
+\_tenrm I’m never quite sure what to write in these things.|
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm I
+.\_tenrm ’
+.\_tenrm m
+.\glue(\spaceskip) 6.0
+.\_tenrm n
+.\_tenrm e
+.\_tenrm v
+.\_tenrm e
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm q
+.\_tenrm u
+.\_tenrm i
+.\_tenrm t
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm u
+.\_tenrm r
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm w
+.\_tenrm h
+.\_tenrm a
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm w
+.\_tenrm r
+.\_tenrm i
+.\_tenrm t
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\_tenrm s
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm i
+.\_tenrm n
+.\_tenrm g
+.\_tenrm s
+.\_tenrm .
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Overfull \hbox (12.3177pt too wide) in paragraph at lines 129--132
+\_tenrm They should have given us les-sons at school. Pity|
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm T
+.\_tenrm h
+.\_tenrm e
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm h
+.\_tenrm o
+.\_tenrm u
+.\_tenrm l
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm h
+.\_tenrm a
+.\_tenrm v
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm g
+.\_tenrm i
+.\_tenrm v
+.\_tenrm e
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm u
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm l
+.\_tenrm e
+.\_tenrm s
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm s
+.\_tenrm o
+.\_tenrm n
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm c
+.\_tenrm h
+.\_tenrm o
+.\_tenrm o
+.\_tenrm l
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm P
+.\_tenrm i
+.\_tenrm t
+.\_tenrm y
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+[153]
+Underfull \hbox (badness 10000) in paragraph at lines 133--135
+[]\_tenrm Any ex-cit-ing plans for the week-end? I’m go-
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm A
+.\_tenrm n
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm e
+.\_tenrm x
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm c
+.\_tenrm i
+.\_tenrm t
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm n
+.\_tenrm g
+.\glue(\spaceskip) 6.0
+.\_tenrm p
+.\_tenrm l
+.\_tenrm a
+.\_tenrm n
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm o
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm w
+.\_tenrm e
+.\_tenrm e
+.\_tenrm k
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm e
+.\_tenrm n
+.\_tenrm d
+.\_tenrm ?
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\_tenrm ’
+.\_tenrm m
+.\glue(\spaceskip) 6.0
+.\_tenrm g
+.\_tenrm o
+.\_tenrm -
+.\discretionary (penalty 50)
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (24.3177pt too wide) in paragraph at lines 133--135
+\_tenrm ing to see a play in Strat-ford (upon Avon, I hasten|
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm i
+.\_tenrm n
+.\_tenrm g
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm e
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\glue(\spaceskip) 6.0
+.\_tenrm p
+.\_tenrm l
+.\_tenrm a
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm S
+.\_tenrm t
+.\_tenrm r
+.\_tenrm a
+.\_tenrm t
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm f
+.\_tenrm o
+.\_tenrm r
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm (
+.\_tenrm u
+.\_tenrm p
+.\_tenrm o
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm A
+.\_tenrm v
+.\_tenrm o
+.\_tenrm n
+.\_tenrm ,
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\glue(\spaceskip) 6.0
+.\_tenrm h
+.\_tenrm a
+.\_tenrm s
+.\_tenrm t
+.\_tenrm e
+.\_tenrm n
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Overfull \hbox (30.3177pt too wide) in paragraph at lines 136--137
+[]\_tenrm My real emes-sage ad-dress is com.hmail::alex.black-|
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm M
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm r
+.\_tenrm e
+.\_tenrm a
+.\_tenrm l
+.\glue(\spaceskip) 6.0
+.\_tenrm e
+.\_tenrm m
+.\_tenrm e
+.\_tenrm s
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm s
+.\_tenrm a
+.\_tenrm g
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm d
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm d
+.\_tenrm r
+.\_tenrm e
+.\_tenrm s
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm c
+.\_tenrm o
+.\_tenrm m
+.\_tenrm .
+.\_tenrm h
+.\_tenrm m
+.\_tenrm a
+.\_tenrm i
+.\_tenrm l
+.\_tenrm :
+.\_tenrm :
+.\_tenrm a
+.\_tenrm l
+.\_tenrm e
+.\_tenrm x
+.\_tenrm .
+.\_tenrm b
+.\_tenrm l
+.\_tenrm a
+.\_tenrm c
+.\_tenrm k
+.\_tenrm -
+.\discretionary (penalty 50)
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+(/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-cursor.opm
+FONT: [Cursor] -- \Cursor (TeX Gyre Cursor fonts based on Courier)
+ mods:{\caps } vars:{\rm \bf \it \bi } math:{}
+Modifier:
+ \caps ...... caps & small caps
+ 
+)
+Underfull \hbox (badness 10000) in paragraph at lines 144--150
+[]\_tenrm yes, I am hav-ing fun, thanks! Well, I think
+
+\hbox(6.18+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm y
+.\_tenrm e
+.\_tenrm s
+.\_tenrm ,
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm m
+.\glue(\spaceskip) 6.0
+.\_tenrm h
+.\_tenrm a
+.\_tenrm v
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm n
+.\_tenrm g
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm u
+.\_tenrm n
+.\_tenrm ,
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm a
+.\_tenrm n
+.\_tenrm k
+.\_tenrm s
+.\_tenrm !
+.\glue(\spaceskip) 6.0
+.\_tenrm W
+.\_tenrm e
+.\_tenrm l
+.\_tenrm l
+.\_tenrm ,
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm i
+.\_tenrm n
+.\_tenrm k
+.\glue(\rightskip) 0.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--150
+\_tenrm it’s fun any-way. I’m try-ing to solve a par-tic-
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm i
+.\_tenrm t
+.\_tenrm ’
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm u
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm n
+.\_tenrm y
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm w
+.\_tenrm a
+.\_tenrm y
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\_tenrm ’
+.\_tenrm m
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm r
+.\_tenrm y
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm n
+.\_tenrm g
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm o
+.\_tenrm l
+.\_tenrm v
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\glue(\spaceskip) 6.0
+.\_tenrm p
+.\_tenrm a
+.\_tenrm r
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm t
+.\_tenrm i
+.\_tenrm c
+.\_tenrm -
+.\discretionary (penalty 50)
+.\glue(\rightskip) 0.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--150
+\_tenrm u-lar knotty prob-lem as-so-ci-ated with an ap-plic-
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm u
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm l
+.\_tenrm a
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm k
+.\_tenrm n
+.\_tenrm o
+.\_tenrm t
+.\_tenrm t
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm p
+.\_tenrm r
+.\_tenrm o
+.\_tenrm b
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm l
+.\_tenrm e
+.\_tenrm m
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm s
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm s
+.\_tenrm o
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm c
+.\_tenrm i
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm a
+.\_tenrm t
+.\_tenrm e
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm w
+.\_tenrm i
+.\_tenrm t
+.\_tenrm h
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm p
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm p
+.\_tenrm l
+.\_tenrm i
+.\_tenrm c
+.\_tenrm -
+.\discretionary (penalty 50)
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (6.3177pt too wide) in paragraph at lines 144--150
+\_tenrm a-tion of a new mini-verse model that I read about|
+
+\hbox(6.1+0.16)x281.6823, direction TLT
+.\_tenrm a
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm t
+.\_tenrm i
+.\_tenrm o
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm f
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\glue(\spaceskip) 6.0
+.\_tenrm n
+.\_tenrm e
+.\_tenrm w
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm i
+.\_tenrm n
+.\_tenrm i
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm v
+.\_tenrm e
+.\_tenrm r
+.\_tenrm s
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm o
+.\_tenrm d
+.\_tenrm e
+.\_tenrm l
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm a
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\glue(\spaceskip) 6.0
+.\_tenrm r
+.\_tenrm e
+.\_tenrm a
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm b
+.\_tenrm o
+.\_tenrm u
+.\_tenrm t
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--150
+\_tenrm yes-ter-day in a pre-print on the web. I know, I
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm y
+.\_tenrm e
+.\_tenrm s
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm t
+.\_tenrm e
+.\_tenrm r
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm d
+.\_tenrm a
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\glue(\spaceskip) 6.0
+.\_tenrm p
+.\_tenrm r
+.\_tenrm e
+.\discretionary (penalty 50)
+..< \_tenrm -
+..= \_tenrm -
+.\_tenrm p
+.\_tenrm r
+.\_tenrm i
+.\_tenrm n
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm w
+.\_tenrm e
+.\_tenrm b
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\glue(\spaceskip) 6.0
+.\_tenrm k
+.\_tenrm n
+.\_tenrm o
+.\_tenrm w
+.\_tenrm ,
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (0.3177pt too wide) in paragraph at lines 144--150
+\_tenrm know! It’s not every-one’s cup of chai. But each|
+
+\hbox(6.18+1.86)x281.6823, direction TLT
+.\_tenrm k
+.\_tenrm n
+.\_tenrm o
+.\_tenrm w
+.\_tenrm !
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\_tenrm t
+.\_tenrm ’
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm n
+.\_tenrm o
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm e
+.\_tenrm v
+.\_tenrm e
+.\_tenrm r
+.\_tenrm y
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm o
+.\_tenrm n
+.\_tenrm e
+.\_tenrm ’
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm c
+.\_tenrm u
+.\_tenrm p
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm f
+.\glue(\spaceskip) 6.0
+.\_tenrm c
+.\_tenrm h
+.\_tenrm a
+.\_tenrm i
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm B
+.\_tenrm u
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm e
+.\_tenrm a
+.\_tenrm c
+.\_tenrm h
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--150
+\_tenrm to her (or his) own! But your mes-sage did give
+
+\hbox(6.18+1.86)x281.6823, direction TLT
+.\_tenrm t
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm h
+.\_tenrm e
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm (
+.\_tenrm o
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm h
+.\_tenrm i
+.\_tenrm s
+.\_tenrm )
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm w
+.\_tenrm n
+.\_tenrm !
+.\glue(\spaceskip) 6.0
+.\_tenrm B
+.\_tenrm u
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm y
+.\_tenrm o
+.\_tenrm u
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm e
+.\_tenrm s
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm s
+.\_tenrm a
+.\_tenrm g
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm d
+.\_tenrm i
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm g
+.\_tenrm i
+.\_tenrm v
+.\_tenrm e
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (6.3177pt too wide) in paragraph at lines 144--150
+\_tenrm me the chance to rest my weary neur-ons for a few|
+
+\hbox(6.04+1.86)x281.6823, direction TLT
+.\_tenrm m
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm c
+.\_tenrm h
+.\_tenrm a
+.\_tenrm n
+.\_tenrm c
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm r
+.\_tenrm e
+.\_tenrm s
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm w
+.\_tenrm e
+.\_tenrm a
+.\_tenrm r
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm n
+.\_tenrm e
+.\_tenrm u
+.\_tenrm r
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm o
+.\_tenrm n
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm o
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm e
+.\_tenrm w
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Overfull \hbox (6.3177pt too wide) in paragraph at lines 151--156
+[]\_tenrm Which play are you go-ing to see? RST, the Swan|
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm W
+.\_tenrm h
+.\_tenrm i
+.\_tenrm c
+.\_tenrm h
+.\glue(\spaceskip) 6.0
+.\_tenrm p
+.\_tenrm l
+.\_tenrm a
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm r
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm y
+.\_tenrm o
+.\_tenrm u
+.\glue(\spaceskip) 6.0
+.\_tenrm g
+.\_tenrm o
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm n
+.\_tenrm g
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm e
+.\_tenrm e
+.\_tenrm ?
+.\glue(\spaceskip) 6.0
+.\_tenrm R
+.\_tenrm S
+.\_tenrm T
+.\_tenrm ,
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm S
+.\_tenrm w
+.\_tenrm a
+.\_tenrm n
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--156
+\_tenrm or The Other Place? I love go-ing to Strat-ford,
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm o
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm T
+.\_tenrm h
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm O
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm P
+.\_tenrm l
+.\_tenrm a
+.\_tenrm c
+.\_tenrm e
+.\_tenrm ?
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\glue(\spaceskip) 6.0
+.\_tenrm l
+.\_tenrm o
+.\_tenrm v
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm g
+.\_tenrm o
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm n
+.\_tenrm g
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm S
+.\_tenrm t
+.\_tenrm r
+.\_tenrm a
+.\_tenrm t
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm f
+.\_tenrm o
+.\_tenrm r
+.\_tenrm d
+.\_tenrm ,
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (0.3177pt too wide) in paragraph at lines 151--156
+\_tenrm al-though I haven’t been for ages. This week-end,|
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm a
+.\_tenrm l
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm t
+.\_tenrm h
+.\_tenrm o
+.\_tenrm u
+.\_tenrm g
+.\_tenrm h
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\glue(\spaceskip) 6.0
+.\_tenrm h
+.\_tenrm a
+.\_tenrm v
+.\_tenrm e
+.\_tenrm n
+.\_tenrm ’
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm b
+.\_tenrm e
+.\_tenrm e
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm o
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm g
+.\_tenrm e
+.\_tenrm s
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm T
+.\_tenrm h
+.\_tenrm i
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm w
+.\_tenrm e
+.\_tenrm e
+.\_tenrm k
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm e
+.\_tenrm n
+.\_tenrm d
+.\_tenrm ,
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--156
+\_tenrm I’m plan-ning to go to my uncle’s dacha in the
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm I
+.\_tenrm ’
+.\_tenrm m
+.\glue(\spaceskip) 6.0
+.\_tenrm p
+.\_tenrm l
+.\_tenrm a
+.\_tenrm n
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm n
+.\_tenrm i
+.\_tenrm n
+.\_tenrm g
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm g
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm u
+.\_tenrm n
+.\_tenrm c
+.\_tenrm l
+.\_tenrm e
+.\_tenrm ’
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm d
+.\_tenrm a
+.\_tenrm c
+.\_tenrm h
+.\_tenrm a
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\glue(\rightskip) 0.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--156
+\_tenrm North-wood Hills It’ll give me a chance to get
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm N
+.\_tenrm o
+.\_tenrm r
+.\_tenrm t
+.\_tenrm h
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm w
+.\_tenrm o
+.\_tenrm o
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm H
+.\_tenrm i
+.\_tenrm l
+.\_tenrm l
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\_tenrm t
+.\_tenrm ’
+.\_tenrm l
+.\_tenrm l
+.\glue(\spaceskip) 6.0
+.\_tenrm g
+.\_tenrm i
+.\_tenrm v
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\glue(\spaceskip) 6.0
+.\_tenrm c
+.\_tenrm h
+.\_tenrm a
+.\_tenrm n
+.\_tenrm c
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm g
+.\_tenrm e
+.\_tenrm t
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (6.3177pt too wide) in paragraph at lines 151--156
+\_tenrm out of the city for a couple of nights, get some|
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm o
+.\_tenrm u
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm f
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm c
+.\_tenrm i
+.\_tenrm t
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm o
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\glue(\spaceskip) 6.0
+.\_tenrm c
+.\_tenrm o
+.\_tenrm u
+.\_tenrm p
+.\_tenrm l
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm f
+.\glue(\spaceskip) 6.0
+.\_tenrm n
+.\_tenrm i
+.\_tenrm g
+.\_tenrm h
+.\_tenrm t
+.\_tenrm s
+.\_tenrm ,
+.\glue(\spaceskip) 6.0
+.\_tenrm g
+.\_tenrm e
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm o
+.\_tenrm m
+.\_tenrm e
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--156
+\_tenrm fresh air and clear my head of all those equa-
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm f
+.\_tenrm r
+.\_tenrm e
+.\_tenrm s
+.\_tenrm h
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm i
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm n
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm c
+.\_tenrm l
+.\_tenrm e
+.\_tenrm a
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm h
+.\_tenrm e
+.\_tenrm a
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm f
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm l
+.\_tenrm l
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm o
+.\_tenrm s
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm e
+.\_tenrm q
+.\_tenrm u
+.\_tenrm a
+.\_tenrm -
+.\discretionary (penalty 50)
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (48.3177pt too wide) in paragraph at lines 161--162
+[]\_tenrm PS: my real emes-sage ad-dress is ic.ac.uk::z.e.heriot-|
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm P
+.\_tenrm S
+.\_tenrm :
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm r
+.\_tenrm e
+.\_tenrm a
+.\_tenrm l
+.\glue(\spaceskip) 6.0
+.\_tenrm e
+.\_tenrm m
+.\_tenrm e
+.\_tenrm s
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm s
+.\_tenrm a
+.\_tenrm g
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm d
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm d
+.\_tenrm r
+.\_tenrm e
+.\_tenrm s
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm c
+.\_tenrm .
+.\_tenrm a
+.\_tenrm c
+.\_tenrm .
+.\_tenrm u
+.\_tenrm k
+.\_tenrm :
+.\_tenrm :
+.\_tenrm z
+.\_tenrm .
+.\_tenrm e
+.\_tenrm .
+.\_tenrm h
+.\_tenrm e
+.\_tenrm r
+.\_tenrm i
+.\_tenrm o
+.\_tenrm t
+.\_tenrm -
+.\discretionary (penalty 50)
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+(/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-cursor.opm
+FONT: [Cursor] -- \Cursor (TeX Gyre Cursor fonts based on Courier)
+ mods:{\caps } vars:{\rm \bf \it \bi } math:{}
+Modifier:
+ \caps ...... caps & small caps
+ 
+) [154]
+Overfull \hbox (6.3177pt too wide) in paragraph at lines 174--175
+[]\_tenrm sorry if I in-ter-rup-ted your thought pro-cesses. |
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm s
+.\_tenrm o
+.\_tenrm r
+.\_tenrm r
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm f
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm n
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm t
+.\_tenrm e
+.\_tenrm r
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm r
+.\_tenrm u
+.\_tenrm p
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm t
+.\_tenrm e
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm y
+.\_tenrm o
+.\_tenrm u
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm o
+.\_tenrm u
+.\_tenrm g
+.\_tenrm h
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm p
+.\_tenrm r
+.\_tenrm o
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm c
+.\_tenrm e
+.\_tenrm s
+.\_tenrm s
+.\_tenrm e
+.\_tenrm s
+.\_tenrm .
+.\penalty 10000
+.\glue(\parfillskip) 0.0 plus 1.0fil
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Overfull \hbox (6.3177pt too wide) in paragraph at lines 176--178
+[]\_tenrm We’re go-ing to see ”Love’s La-bour Won”. My fa-|
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm W
+.\_tenrm e
+.\_tenrm ’
+.\_tenrm r
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm g
+.\_tenrm o
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm n
+.\_tenrm g
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm e
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm ”
+.\_tenrm L
+.\_tenrm o
+.\_tenrm v
+.\_tenrm e
+.\_tenrm ’
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm L
+.\_tenrm a
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm b
+.\_tenrm o
+.\_tenrm u
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm W
+.\_tenrm o
+.\_tenrm n
+.\_tenrm ”
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm M
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm a
+.\_tenrm -
+.\discretionary (penalty 50)
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Overfull \hbox (0.3177pt too wide) in paragraph at lines 176--178
+\_tenrm vour-ite Shakespeare play, so I’m quite ex-cited. |
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm v
+.\_tenrm o
+.\_tenrm u
+.\_tenrm r
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm t
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm S
+.\_tenrm h
+.\_tenrm a
+.\_tenrm k
+.\_tenrm e
+.\_tenrm s
+.\_tenrm p
+.\_tenrm e
+.\_tenrm a
+.\_tenrm r
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm p
+.\_tenrm l
+.\_tenrm a
+.\_tenrm y
+.\_tenrm ,
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\_tenrm ’
+.\_tenrm m
+.\glue(\spaceskip) 6.0
+.\_tenrm q
+.\_tenrm u
+.\_tenrm i
+.\_tenrm t
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm e
+.\_tenrm x
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm c
+.\_tenrm i
+.\_tenrm t
+.\_tenrm e
+.\_tenrm d
+.\_tenrm .
+.\penalty 10000
+.\glue(\parfillskip) 0.0 plus 1.0fil
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
+[]\_tenrm What kinds of food do you like? My fa-vour-ite
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm W
+.\_tenrm h
+.\_tenrm a
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm k
+.\_tenrm i
+.\_tenrm n
+.\_tenrm d
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm f
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm o
+.\_tenrm o
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm d
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm y
+.\_tenrm o
+.\_tenrm u
+.\glue(\spaceskip) 6.0
+.\_tenrm l
+.\_tenrm i
+.\_tenrm k
+.\_tenrm e
+.\_tenrm ?
+.\glue(\spaceskip) 6.0
+.\_tenrm M
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm a
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm v
+.\_tenrm o
+.\_tenrm u
+.\_tenrm r
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm t
+.\_tenrm e
+.\glue(\rightskip) 0.0
+
+(/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-cursor.opm
+FONT: [Cursor] -- \Cursor (TeX Gyre Cursor fonts based on Courier)
+ mods:{\caps } vars:{\rm \bf \it \bi } math:{}
+Modifier:
+ \caps ...... caps & small caps
+ 
+)
+Overfull \hbox (30.3177pt too wide) in paragraph at lines 189--193
+[]\_tenrm that’s re-mark-able! LLW is my fa-vour-ite Shakespeare|
+
+\hbox(6.18+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm t
+.\_tenrm h
+.\_tenrm a
+.\_tenrm t
+.\_tenrm ’
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm r
+.\_tenrm e
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm m
+.\_tenrm a
+.\_tenrm r
+.\_tenrm k
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm a
+.\_tenrm b
+.\_tenrm l
+.\_tenrm e
+.\_tenrm !
+.\glue(\spaceskip) 6.0
+.\_tenrm L
+.\_tenrm L
+.\_tenrm W
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm a
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm v
+.\_tenrm o
+.\_tenrm u
+.\_tenrm r
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm t
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm S
+.\_tenrm h
+.\_tenrm a
+.\_tenrm k
+.\_tenrm e
+.\_tenrm s
+.\_tenrm p
+.\_tenrm e
+.\_tenrm a
+.\_tenrm r
+.\_tenrm e
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--193
+\_tenrm play too. It’s just so ro-mantic! I al-ways have
+
+\hbox(6.18+1.86)x281.6823, direction TLT
+.\_tenrm p
+.\_tenrm l
+.\_tenrm a
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm o
+.\_tenrm o
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\_tenrm t
+.\_tenrm ’
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm j
+.\_tenrm u
+.\_tenrm s
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm r
+.\_tenrm o
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm m
+.\_tenrm a
+.\_tenrm n
+.\_tenrm t
+.\_tenrm i
+.\_tenrm c
+.\_tenrm !
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm l
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm w
+.\_tenrm a
+.\_tenrm y
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm h
+.\_tenrm a
+.\_tenrm v
+.\_tenrm e
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (0.3177pt too wide) in paragraph at lines 189--193
+\_tenrm a tear in my eye when the king and the prin-cess|
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm a
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm e
+.\_tenrm a
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm e
+.\_tenrm y
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm w
+.\_tenrm h
+.\_tenrm e
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm k
+.\_tenrm i
+.\_tenrm n
+.\_tenrm g
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm n
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm p
+.\_tenrm r
+.\_tenrm i
+.\_tenrm n
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm c
+.\_tenrm e
+.\_tenrm s
+.\_tenrm s
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--193
+\_tenrm get back to-gether at the end. I’ve heard good
+
+\hbox(6.04+1.86)x281.6823, direction TLT
+.\_tenrm g
+.\_tenrm e
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm b
+.\_tenrm a
+.\_tenrm c
+.\_tenrm k
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm o
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm g
+.\_tenrm e
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm e
+.\_tenrm n
+.\_tenrm d
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\_tenrm ’
+.\_tenrm v
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm h
+.\_tenrm e
+.\_tenrm a
+.\_tenrm r
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm g
+.\_tenrm o
+.\_tenrm o
+.\_tenrm d
+.\glue(\rightskip) 0.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--193
+\_tenrm things about that pro-duc-tion. I hope you en-joy
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm t
+.\_tenrm h
+.\_tenrm i
+.\_tenrm n
+.\_tenrm g
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm b
+.\_tenrm o
+.\_tenrm u
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm a
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm p
+.\_tenrm r
+.\_tenrm o
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm d
+.\_tenrm u
+.\_tenrm c
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm t
+.\_tenrm i
+.\_tenrm o
+.\_tenrm n
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\glue(\spaceskip) 6.0
+.\_tenrm h
+.\_tenrm o
+.\_tenrm p
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm y
+.\_tenrm o
+.\_tenrm u
+.\glue(\spaceskip) 6.0
+.\_tenrm e
+.\_tenrm n
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm j
+.\_tenrm o
+.\_tenrm y
+.\glue(\rightskip) 0.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--197
+[]\_tenrm As for food, I’m a big fan of Pol-ish too. I
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm A
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm o
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm o
+.\_tenrm o
+.\_tenrm d
+.\_tenrm ,
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\_tenrm ’
+.\_tenrm m
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\glue(\spaceskip) 6.0
+.\_tenrm b
+.\_tenrm i
+.\_tenrm g
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm a
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm f
+.\glue(\spaceskip) 6.0
+.\_tenrm P
+.\_tenrm o
+.\_tenrm l
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm s
+.\_tenrm h
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm o
+.\_tenrm o
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\glue(\rightskip) 0.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--197
+\_tenrm love kas-anka for starter, fol-lowed by go-lonka
+
+\hbox(6.04+1.86)x281.6823, direction TLT
+.\_tenrm l
+.\_tenrm o
+.\_tenrm v
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm k
+.\_tenrm a
+.\_tenrm s
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm a
+.\_tenrm n
+.\_tenrm k
+.\_tenrm a
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm o
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm t
+.\_tenrm a
+.\_tenrm r
+.\_tenrm t
+.\_tenrm e
+.\_tenrm r
+.\_tenrm ,
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm o
+.\_tenrm l
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm l
+.\_tenrm o
+.\_tenrm w
+.\_tenrm e
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm b
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm g
+.\_tenrm o
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm l
+.\_tenrm o
+.\_tenrm n
+.\_tenrm k
+.\_tenrm a
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (12.3177pt too wide) in paragraph at lines 194--197
+\_tenrm or golabki with a side or-der of kasza and racuchy|
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm o
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm g
+.\_tenrm o
+.\_tenrm l
+.\_tenrm a
+.\_tenrm b
+.\_tenrm k
+.\_tenrm i
+.\glue(\spaceskip) 6.0
+.\_tenrm w
+.\_tenrm i
+.\_tenrm t
+.\_tenrm h
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm i
+.\_tenrm d
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm r
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm d
+.\_tenrm e
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm f
+.\glue(\spaceskip) 6.0
+.\_tenrm k
+.\_tenrm a
+.\_tenrm s
+.\_tenrm z
+.\_tenrm a
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm n
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm r
+.\_tenrm a
+.\_tenrm c
+.\_tenrm u
+.\_tenrm c
+.\_tenrm h
+.\_tenrm y
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--201
+[]\_tenrm Do you know the Krakow in Neal Street? Would
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm D
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm y
+.\_tenrm o
+.\_tenrm u
+.\glue(\spaceskip) 6.0
+.\_tenrm k
+.\_tenrm n
+.\_tenrm o
+.\_tenrm w
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm K
+.\_tenrm r
+.\_tenrm a
+.\_tenrm k
+.\_tenrm o
+.\_tenrm w
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm N
+.\_tenrm e
+.\_tenrm a
+.\_tenrm l
+.\glue(\spaceskip) 6.0
+.\_tenrm S
+.\_tenrm t
+.\_tenrm r
+.\_tenrm e
+.\_tenrm e
+.\_tenrm t
+.\_tenrm ?
+.\glue(\spaceskip) 6.0
+.\_tenrm W
+.\_tenrm o
+.\_tenrm u
+.\_tenrm l
+.\_tenrm d
+.\glue(\rightskip) 0.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--201
+\_tenrm you like to catch din-ner there one night soon?
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm y
+.\_tenrm o
+.\_tenrm u
+.\glue(\spaceskip) 6.0
+.\_tenrm l
+.\_tenrm i
+.\_tenrm k
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm c
+.\_tenrm a
+.\_tenrm t
+.\_tenrm c
+.\_tenrm h
+.\glue(\spaceskip) 6.0
+.\_tenrm d
+.\_tenrm i
+.\_tenrm n
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm n
+.\_tenrm e
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\_tenrm r
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm n
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm n
+.\_tenrm i
+.\_tenrm g
+.\_tenrm h
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm o
+.\_tenrm o
+.\_tenrm n
+.\_tenrm ?
+.\glue(\rightskip) 0.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--201
+\_tenrm What about some-time next week? Is Tues-day good
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\_tenrm W
+.\_tenrm h
+.\_tenrm a
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm b
+.\_tenrm o
+.\_tenrm u
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm o
+.\_tenrm m
+.\_tenrm e
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm t
+.\_tenrm i
+.\_tenrm m
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm n
+.\_tenrm e
+.\_tenrm x
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm w
+.\_tenrm e
+.\_tenrm e
+.\_tenrm k
+.\_tenrm ?
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm T
+.\_tenrm u
+.\_tenrm e
+.\_tenrm s
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm d
+.\_tenrm a
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm g
+.\_tenrm o
+.\_tenrm o
+.\_tenrm d
+.\glue(\rightskip) 0.0
+
+[155] [156] [157] [158] [159] [160] [161] [162] [163] [164] [165] [166]
+[167] [168]) (./11SSAL_chapter10.tex
+(/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-heros.opm
+FONT: [Heros] -- \Heros (TeX Gyre Heros fonts based on Helvetica)
+ mods:{\caps \cond } vars:{\rm \bf \it \bi } math:{FiraMath}
+Modifiers:
+ \caps ...... caps & small caps
+ \cond ...... condensed variants
+ 
+) (/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-heros.opm
+FONT: [Heros] -- \Heros (TeX Gyre Heros fonts based on Helvetica)
+ mods:{\caps \cond } vars:{\rm \bf \it \bi } math:{FiraMath}
+Modifiers:
+ \caps ...... caps & small caps
+ \cond ...... condensed variants
+ 
+) [169] [170] [171] [172] [173] [174] [175] [176] [177] [178] [179] [180]
+[181] [182] [183] [184] [185] [186] [187]) (./11SSAL_chapter11.tex
+(/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-cursor.opm
+FONT: [Cursor] -- \Cursor (TeX Gyre Cursor fonts based on Courier)
+ mods:{\caps } vars:{\rm \bf \it \bi } math:{}
+Modifier:
+ \caps ...... caps & small caps
+ 
+) (/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-cursor.opm
+FONT: [Cursor] -- \Cursor (TeX Gyre Cursor fonts based on Courier)
+ mods:{\caps } vars:{\rm \bf \it \bi } math:{}
+Modifier:
+ \caps ...... caps & small caps
+ 
+) [188] [189] [190] [191]
+(/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-cursor.opm
+FONT: [Cursor] -- \Cursor (TeX Gyre Cursor fonts based on Courier)
+ mods:{\caps } vars:{\rm \bf \it \bi } math:{}
+Modifier:
+ \caps ...... caps & small caps
+ 
+) (/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-cursor.opm)
+(/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-cursor.opm)
+(/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-cursor.opm)
+(/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-cursor.opm)
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+[]\_tenrm You have 1 (one) match from our re-cent speed
+
+\hbox(6.12+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm Y
+.\_tenrm o
+.\_tenrm u
+.\glue(\spaceskip) 6.0
+.\_tenrm h
+.\_tenrm a
+.\_tenrm v
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm 1
+.\glue(\spaceskip) 6.0
+.\_tenrm (
+.\_tenrm o
+.\_tenrm n
+.\_tenrm e
+.\_tenrm )
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm a
+.\_tenrm t
+.\_tenrm c
+.\_tenrm h
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm r
+.\_tenrm o
+.\_tenrm m
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm u
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm r
+.\_tenrm e
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm c
+.\_tenrm e
+.\_tenrm n
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm p
+.\_tenrm e
+.\_tenrm e
+.\_tenrm d
+.\glue(\rightskip) 0.0
+
+(/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-cursor.opm
+FONT: [Cursor] -- \Cursor (TeX Gyre Cursor fonts based on Courier)
+ mods:{\caps } vars:{\rm \bf \it \bi } math:{}
+Modifier:
+ \caps ...... caps & small caps
+ 
+) [192]
+Underfull \hbox (badness 10000) in paragraph at lines 255--256
+[]\_tenrm You can con-tact your match through our web-
+
+\hbox(6.04+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm Y
+.\_tenrm o
+.\_tenrm u
+.\glue(\spaceskip) 6.0
+.\_tenrm c
+.\_tenrm a
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm c
+.\_tenrm o
+.\_tenrm n
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm t
+.\_tenrm a
+.\_tenrm c
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm y
+.\_tenrm o
+.\_tenrm u
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm a
+.\_tenrm t
+.\_tenrm c
+.\_tenrm h
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm r
+.\_tenrm o
+.\_tenrm u
+.\_tenrm g
+.\_tenrm h
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm u
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm w
+.\_tenrm e
+.\_tenrm b
+.\_tenrm -
+.\discretionary (penalty 50)
+.\glue(\rightskip) 0.0
+
+(/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-cursor.opm
+FONT: [Cursor] -- \Cursor (TeX Gyre Cursor fonts based on Courier)
+ mods:{\caps } vars:{\rm \bf \it \bi } math:{}
+Modifier:
+ \caps ...... caps & small caps
+ 
+)
+Overfull \hbox (6.3177pt too wide) in paragraph at lines 285--285
+[]\_tenrm great to meet you last Wed-nes-day. Read-ing any-|
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm g
+.\_tenrm r
+.\_tenrm e
+.\_tenrm a
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm e
+.\_tenrm e
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm y
+.\_tenrm o
+.\_tenrm u
+.\glue(\spaceskip) 6.0
+.\_tenrm l
+.\_tenrm a
+.\_tenrm s
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm W
+.\_tenrm e
+.\_tenrm d
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm n
+.\_tenrm e
+.\_tenrm s
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm d
+.\_tenrm a
+.\_tenrm y
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm R
+.\_tenrm e
+.\_tenrm a
+.\_tenrm d
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm n
+.\_tenrm g
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm n
+.\_tenrm y
+.\_tenrm -
+.\discretionary (penalty 50)
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Overfull \hbox (36.3177pt too wide) in paragraph at lines 286--286
+[]\_tenrm mo-ment? I’m read-ing Mi-chael Frayn’s ”Sweet Dreams”. |
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm m
+.\_tenrm o
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm m
+.\_tenrm e
+.\_tenrm n
+.\_tenrm t
+.\_tenrm ?
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\_tenrm ’
+.\_tenrm m
+.\glue(\spaceskip) 6.0
+.\_tenrm r
+.\_tenrm e
+.\_tenrm a
+.\_tenrm d
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm n
+.\_tenrm g
+.\glue(\spaceskip) 6.0
+.\_tenrm M
+.\_tenrm i
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm c
+.\_tenrm h
+.\_tenrm a
+.\_tenrm e
+.\_tenrm l
+.\glue(\spaceskip) 6.0
+.\_tenrm F
+.\_tenrm r
+.\_tenrm a
+.\_tenrm y
+.\_tenrm n
+.\_tenrm ’
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm ”
+.\_tenrm S
+.\_tenrm w
+.\_tenrm e
+.\_tenrm e
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm D
+.\_tenrm r
+.\_tenrm e
+.\_tenrm a
+.\_tenrm m
+.\_tenrm s
+.\_tenrm ”
+.\_tenrm .
+.\penalty 10000
+.\glue(\parfillskip) 0.0 plus 1.0fil
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Overfull \hbox (54.3177pt too wide) in paragraph at lines 294--295
+[]\_tenrm (PS: my real email ad-dress is a.j.black-well@gmail.com) |
+
+\hbox(6.24+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm (
+.\_tenrm P
+.\_tenrm S
+.\_tenrm :
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm r
+.\_tenrm e
+.\_tenrm a
+.\_tenrm l
+.\glue(\spaceskip) 6.0
+.\_tenrm e
+.\_tenrm m
+.\_tenrm a
+.\_tenrm i
+.\_tenrm l
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm d
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm d
+.\_tenrm r
+.\_tenrm e
+.\_tenrm s
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm .
+.\_tenrm j
+.\_tenrm .
+.\_tenrm b
+.\_tenrm l
+.\_tenrm a
+.\_tenrm c
+.\_tenrm k
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm w
+.\_tenrm e
+.\_tenrm l
+.\_tenrm l
+.\_tenrm @
+.\_tenrm g
+.\_tenrm m
+.\_tenrm a
+.\_tenrm i
+.\_tenrm l
+.\_tenrm .
+.\_tenrm c
+.\_tenrm o
+.\_tenrm m
+.\_tenrm )
+.\penalty 10000
+.\glue(\parfillskip) 0.0 plus 1.0fil
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+[193] (/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-cursor.opm
+FONT: [Cursor] -- \Cursor (TeX Gyre Cursor fonts based on Courier)
+ mods:{\caps } vars:{\rm \bf \it \bi } math:{}
+Modifier:
+ \caps ...... caps & small caps
+ 
+) (/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-cursor.opm
+FONT: [Cursor] -- \Cursor (TeX Gyre Cursor fonts based on Courier)
+ mods:{\caps } vars:{\rm \bf \it \bi } math:{}
+Modifier:
+ \caps ...... caps & small caps
+ 
+) (/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-cursor.opm
+FONT: [Cursor] -- \Cursor (TeX Gyre Cursor fonts based on Courier)
+ mods:{\caps } vars:{\rm \bf \it \bi } math:{}
+Modifier:
+ \caps ...... caps & small caps
+ 
+) (/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-cursor.opm
+FONT: [Cursor] -- \Cursor (TeX Gyre Cursor fonts based on Courier)
+ mods:{\caps } vars:{\rm \bf \it \bi } math:{}
+Modifier:
+ \caps ...... caps & small caps
+ 
+) [194]
+Overfull \hbox (12.3177pt too wide) in paragraph at lines 349--349
+[]\_tenrm from: ”Zoe E. Heriot-Shaw” <z.e.heriot-shaw@im-|
+
+\hbox(6.24+0.62)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm f
+.\_tenrm r
+.\_tenrm o
+.\_tenrm m
+.\_tenrm :
+.\glue(\spaceskip) 6.0
+.\_tenrm ”
+.\_tenrm Z
+.\_tenrm o
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm E
+.\_tenrm .
+.\penalty 10000
+.\glue(\spaceskip) 6.0
+.\_tenrm H
+.\_tenrm e
+.\_tenrm r
+.\_tenrm i
+.\_tenrm o
+.\_tenrm t
+.\discretionary (penalty 50)
+..< \_tenrm -
+..= \_tenrm -
+.\_tenrm S
+.\_tenrm h
+.\_tenrm a
+.\_tenrm w
+.\_tenrm ”
+.\glue(\spaceskip) 6.0
+.\_tenrm <
+.\_tenrm z
+.\_tenrm .
+.\_tenrm e
+.\_tenrm .
+.\_tenrm h
+.\_tenrm e
+.\_tenrm r
+.\_tenrm i
+.\_tenrm o
+.\_tenrm t
+.\discretionary (penalty 50)
+..< \_tenrm -
+..= \_tenrm -
+.\_tenrm s
+.\_tenrm h
+.\_tenrm a
+.\_tenrm w
+.\_tenrm @
+.\_tenrm i
+.\_tenrm m
+.\_tenrm -
+.\discretionary (penalty 50)
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Overfull \hbox (6.3177pt too wide) in paragraph at lines 351--351
+[]\_tenrm to: ”Alex Black-well” <a.g.black-well@gmail.com> |
+
+\hbox(6.24+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm t
+.\_tenrm o
+.\_tenrm :
+.\glue(\spaceskip) 6.0
+.\_tenrm ”
+.\_tenrm A
+.\_tenrm l
+.\_tenrm e
+.\_tenrm x
+.\glue(\spaceskip) 6.0
+.\_tenrm B
+.\_tenrm l
+.\_tenrm a
+.\_tenrm c
+.\_tenrm k
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm w
+.\_tenrm e
+.\_tenrm l
+.\_tenrm l
+.\_tenrm ”
+.\glue(\spaceskip) 6.0
+.\_tenrm <
+.\_tenrm a
+.\_tenrm .
+.\_tenrm g
+.\_tenrm .
+.\_tenrm b
+.\_tenrm l
+.\_tenrm a
+.\_tenrm c
+.\_tenrm k
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm w
+.\_tenrm e
+.\_tenrm l
+.\_tenrm l
+.\_tenrm @
+.\_tenrm g
+.\_tenrm m
+.\_tenrm a
+.\_tenrm i
+.\_tenrm l
+.\_tenrm .
+.\_tenrm c
+.\_tenrm o
+.\_tenrm m
+.\_tenrm >
+.\penalty 10000
+.\glue(\parfillskip) 0.0 plus 1.0fil
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Overfull \hbox (6.3177pt too wide) in paragraph at lines 357--357
+[]\_tenrm great to meet you too! Cur-rently read-ing ``Mid-|
+
+\hbox(6.18+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm g
+.\_tenrm r
+.\_tenrm e
+.\_tenrm a
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm e
+.\_tenrm e
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm y
+.\_tenrm o
+.\_tenrm u
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm o
+.\_tenrm o
+.\_tenrm !
+.\glue(\spaceskip) 6.0
+.\_tenrm C
+.\_tenrm u
+.\_tenrm r
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm r
+.\_tenrm e
+.\_tenrm n
+.\_tenrm t
+.\_tenrm l
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm r
+.\_tenrm e
+.\_tenrm a
+.\_tenrm d
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm n
+.\_tenrm g
+.\glue(\spaceskip) 6.0
+.\_tenrm “
+.\_tenrm M
+.\_tenrm i
+.\_tenrm d
+.\_tenrm -
+.\discretionary (penalty 50)
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 358--358
+[]\_tenrm ashamed to say that I hadn’t got round to it
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm a
+.\_tenrm s
+.\_tenrm h
+.\_tenrm a
+.\_tenrm m
+.\_tenrm e
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm a
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm a
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\glue(\spaceskip) 6.0
+.\_tenrm h
+.\_tenrm a
+.\_tenrm d
+.\_tenrm n
+.\_tenrm ’
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm g
+.\_tenrm o
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm r
+.\_tenrm o
+.\_tenrm u
+.\_tenrm n
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm t
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (6.3177pt too wide) in paragraph at lines 360--360
+[]\_tenrm We’ve already met in per-son once, so why don’t|
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm W
+.\_tenrm e
+.\_tenrm ’
+.\_tenrm v
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm l
+.\_tenrm r
+.\_tenrm e
+.\_tenrm a
+.\_tenrm d
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm e
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm p
+.\_tenrm e
+.\_tenrm r
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm s
+.\_tenrm o
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm n
+.\_tenrm c
+.\_tenrm e
+.\_tenrm ,
+.\glue(\spaceskip) 6.0
+.\_tenrm s
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm w
+.\_tenrm h
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm d
+.\_tenrm o
+.\_tenrm n
+.\_tenrm ’
+.\_tenrm t
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Overfull \hbox (12.3177pt too wide) in paragraph at lines 361--361
+[]\_tenrm of my fa-vour-ite kinds of food is In-dian (what’s|
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm o
+.\_tenrm f
+.\glue(\spaceskip) 6.0
+.\_tenrm m
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm a
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm v
+.\_tenrm o
+.\_tenrm u
+.\_tenrm r
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm t
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm k
+.\_tenrm i
+.\_tenrm n
+.\_tenrm d
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm f
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm o
+.\_tenrm o
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\_tenrm n
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm d
+.\_tenrm i
+.\_tenrm a
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm (
+.\_tenrm w
+.\_tenrm h
+.\_tenrm a
+.\_tenrm t
+.\_tenrm ’
+.\_tenrm s
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Overfull \hbox (18.3177pt too wide) in paragraph at lines 362--362
+[]\_tenrm to beat a karahi gosht with pi-lau rice, a channa|
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm t
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm b
+.\_tenrm e
+.\_tenrm a
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\glue(\spaceskip) 6.0
+.\_tenrm k
+.\_tenrm a
+.\_tenrm r
+.\_tenrm a
+.\_tenrm h
+.\_tenrm i
+.\glue(\spaceskip) 6.0
+.\_tenrm g
+.\_tenrm o
+.\_tenrm s
+.\_tenrm h
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm w
+.\_tenrm i
+.\_tenrm t
+.\_tenrm h
+.\glue(\spaceskip) 6.0
+.\_tenrm p
+.\_tenrm i
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm l
+.\_tenrm a
+.\_tenrm u
+.\glue(\spaceskip) 6.0
+.\_tenrm r
+.\_tenrm i
+.\_tenrm c
+.\_tenrm e
+.\_tenrm ,
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\glue(\spaceskip) 6.0
+.\_tenrm c
+.\_tenrm h
+.\_tenrm a
+.\_tenrm n
+.\_tenrm n
+.\_tenrm a
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Overfull \hbox (0.3177pt too wide) in paragraph at lines 363--363
+[]\_tenrm naan. I also think that cham-pagne is the only|
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm n
+.\_tenrm a
+.\_tenrm a
+.\_tenrm n
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm l
+.\_tenrm s
+.\_tenrm o
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm i
+.\_tenrm n
+.\_tenrm k
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm a
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm c
+.\_tenrm h
+.\_tenrm a
+.\_tenrm m
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm p
+.\_tenrm a
+.\_tenrm g
+.\_tenrm n
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm i
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm n
+.\_tenrm l
+.\_tenrm y
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Overfull \hbox (12.3177pt too wide) in paragraph at lines 364--364
+[]\_tenrm in an In-dian res-taur-ant ;-) OK, a de-cent Shiraz|
+
+\hbox(6.1+1.5)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm i
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\_tenrm n
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm d
+.\_tenrm i
+.\_tenrm a
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm r
+.\_tenrm e
+.\_tenrm s
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm t
+.\_tenrm a
+.\_tenrm u
+.\_tenrm r
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm a
+.\_tenrm n
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm ;
+.\discretionary (penalty 50)
+..< \_tenrm -
+..= \_tenrm -
+.\_tenrm )
+.\glue(\spaceskip) 6.0
+.\_tenrm O
+.\_tenrm K
+.\_tenrm ,
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\glue(\spaceskip) 6.0
+.\_tenrm d
+.\_tenrm e
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm c
+.\_tenrm e
+.\_tenrm n
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm S
+.\_tenrm h
+.\_tenrm i
+.\_tenrm r
+.\_tenrm a
+.\_tenrm z
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 365--365
+[]\_tenrm a Co-bra. How about the Pun-jab on Neal Street
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm a
+.\glue(\spaceskip) 6.0
+.\_tenrm C
+.\_tenrm o
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm b
+.\_tenrm r
+.\_tenrm a
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm H
+.\_tenrm o
+.\_tenrm w
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm b
+.\_tenrm o
+.\_tenrm u
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm P
+.\_tenrm u
+.\_tenrm n
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm j
+.\_tenrm a
+.\_tenrm b
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm N
+.\_tenrm e
+.\_tenrm a
+.\_tenrm l
+.\glue(\spaceskip) 6.0
+.\_tenrm S
+.\_tenrm t
+.\_tenrm r
+.\_tenrm e
+.\_tenrm e
+.\_tenrm t
+.\glue(\rightskip) 0.0
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 366--366
+[]\_tenrm 19:30 next Tues-day? Does that work for you?
+
+\hbox(6.18+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm 1
+.\_tenrm 9
+.\_tenrm :
+.\_tenrm 3
+.\_tenrm 0
+.\glue(\spaceskip) 6.0
+.\_tenrm n
+.\_tenrm e
+.\_tenrm x
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm T
+.\_tenrm u
+.\_tenrm e
+.\_tenrm s
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm d
+.\_tenrm a
+.\_tenrm y
+.\_tenrm ?
+.\glue(\spaceskip) 6.0
+.\_tenrm D
+.\_tenrm o
+.\_tenrm e
+.\_tenrm s
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm a
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm w
+.\_tenrm o
+.\_tenrm r
+.\_tenrm k
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm o
+.\_tenrm r
+.\glue(\spaceskip) 6.0
+.\_tenrm y
+.\_tenrm o
+.\_tenrm u
+.\_tenrm ?
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (0.3177pt too wide) in paragraph at lines 371--371
+[]\_tenrm Btw, I’m a big fan of both Gene Wolfe and Mi-|
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm B
+.\_tenrm t
+.\_tenrm w
+.\_tenrm ,
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\_tenrm ’
+.\_tenrm m
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\glue(\spaceskip) 6.0
+.\_tenrm b
+.\_tenrm i
+.\_tenrm g
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm a
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm o
+.\_tenrm f
+.\glue(\spaceskip) 6.0
+.\_tenrm b
+.\_tenrm o
+.\_tenrm t
+.\_tenrm h
+.\glue(\spaceskip) 6.0
+.\_tenrm G
+.\_tenrm e
+.\_tenrm n
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm W
+.\_tenrm o
+.\_tenrm l
+.\_tenrm f
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm n
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm M
+.\_tenrm i
+.\_tenrm -
+.\discretionary (penalty 50)
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+[195] [196] [197] [198] [199] [200] [201]
+(/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-cursor.opm
+FONT: [Cursor] -- \Cursor (TeX Gyre Cursor fonts based on Courier)
+ mods:{\caps } vars:{\rm \bf \it \bi } math:{}
+Modifier:
+ \caps ...... caps & small caps
+ 
+)
+Underfull \hbox (badness 10000) in paragraph at lines 709--711
+[]\_tenrm Hope you have a fun day at Im-per-ial. Look-ing
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm H
+.\_tenrm o
+.\_tenrm p
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm y
+.\_tenrm o
+.\_tenrm u
+.\glue(\spaceskip) 6.0
+.\_tenrm h
+.\_tenrm a
+.\_tenrm v
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm u
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm d
+.\_tenrm a
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\_tenrm m
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm p
+.\_tenrm e
+.\_tenrm r
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm a
+.\_tenrm l
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm L
+.\_tenrm o
+.\_tenrm o
+.\_tenrm k
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm n
+.\_tenrm g
+.\glue(\rightskip) 0.0
+
+(/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-cursor.opm
+FONT: [Cursor] -- \Cursor (TeX Gyre Cursor fonts based on Courier)
+ mods:{\caps } vars:{\rm \bf \it \bi } math:{}
+Modifier:
+ \caps ...... caps & small caps
+ 
+)
+Overfull \hbox (6.3177pt too wide) in paragraph at lines 717--719
+[]\_tenrm Hav-ing a fun day at Im-per-ial, but would rather|
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm H
+.\_tenrm a
+.\_tenrm v
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm n
+.\_tenrm g
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\glue(\spaceskip) 6.0
+.\_tenrm f
+.\_tenrm u
+.\_tenrm n
+.\glue(\spaceskip) 6.0
+.\_tenrm d
+.\_tenrm a
+.\_tenrm y
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm I
+.\_tenrm m
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm p
+.\_tenrm e
+.\_tenrm r
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm a
+.\_tenrm l
+.\_tenrm ,
+.\glue(\spaceskip) 6.0
+.\_tenrm b
+.\_tenrm u
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm w
+.\_tenrm o
+.\_tenrm u
+.\_tenrm l
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm r
+.\_tenrm a
+.\_tenrm t
+.\_tenrm h
+.\_tenrm e
+.\_tenrm r
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+[202] (/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-cursor.opm
+FONT: [Cursor] -- \Cursor (TeX Gyre Cursor fonts based on Courier)
+ mods:{\caps } vars:{\rm \bf \it \bi } math:{}
+Modifier:
+ \caps ...... caps & small caps
+ 
+)
+Overfull \hbox (6.3177pt too wide) in paragraph at lines 756--757
+[]\_tenrm Just had a wank while think-ing about you. Alex|
+
+\hbox(6.1+1.86)x281.6823, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x12.0, direction TLT
+.\_tenrm J
+.\_tenrm u
+.\_tenrm s
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm h
+.\_tenrm a
+.\_tenrm d
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\glue(\spaceskip) 6.0
+.\_tenrm w
+.\_tenrm a
+.\_tenrm n
+.\_tenrm k
+.\glue(\spaceskip) 6.0
+.\_tenrm w
+.\_tenrm h
+.\_tenrm i
+.\_tenrm l
+.\_tenrm e
+.\glue(\spaceskip) 6.0
+.\_tenrm t
+.\_tenrm h
+.\_tenrm i
+.\_tenrm n
+.\_tenrm k
+.\discretionary (penalty 50)
+..< \_tenrm -
+.\_tenrm i
+.\_tenrm n
+.\_tenrm g
+.\glue(\spaceskip) 6.0
+.\_tenrm a
+.\_tenrm b
+.\_tenrm o
+.\_tenrm u
+.\_tenrm t
+.\glue(\spaceskip) 6.0
+.\_tenrm y
+.\_tenrm o
+.\_tenrm u
+.\_tenrm .
+.\glue(\spaceskip) 6.0
+.\_tenrm A
+.\_tenrm l
+.\_tenrm e
+.\_tenrm x
+.\glue(\rightskip) 0.0
+.\rule(*+*)x5.0
+
+(/usr/local/texlive/2025/texmf-dist/tex/optex/base/f-cursor.opm [203]
+FONT: [Cursor] -- \Cursor (TeX Gyre Cursor fonts based on Courier)
+ mods:{\caps } vars:{\rm \bf \it \bi } math:{}
+Modifier:
+ \caps ...... caps & small caps
+ 
+) [204] [205] [206] [207] [208] [209]))</usr/local/texlive/2025/texmf-dist/fonts
+/opentype/public/tex-gyre-math/texgyretermes-math.otf></usr/local/texlive/2025/t
+exmf-dist/fonts/opentype/public/tex-gyre-math/texgyretermes-math.otf></usr/local
+/texlive/2025/texmf-dist/fonts/opentype/public/tex-gyre/texgyrecursor-regular.ot
+f></usr/local/texlive/2025/texmf-dist/fonts/opentype/public/tex-gyre/texgyreterm
+es-bold.otf></usr/local/texlive/2025/texmf-dist/fonts/opentype/public/tex-gyre/t
+exgyreheros-regular.otf></usr/local/texlive/2025/texmf-dist/fonts/opentype/publi
+c/tex-gyre/texgyretermes-italic.otf></usr/local/texlive/2025/texmf-dist/fonts/op
+entype/public/tex-gyre/texgyretermes-regular.otf>
+Output written on 11SSAL.pdf (217 pages, 644450 bytes).
+
+PDF statistics: 734 PDF objects out of 1000 (max. 8388607)
+ 489 compressed objects within 5 object streams
+ 0 named destinations out of 1000 (max. 131072)
+ 1 words of extra memory for PDF output out of 10000 (max. 100000000)
+
